@@ -31,5 +31,5 @@ print("print type")
 # print("print")
 # print(auto.groupby("type"))
 # ** Is there a correlation between playing time and total comments for the games? - Use the .corr() function **
-print(auto[["playingtime","total_comments"]])
+print(auto[["playingtime","total_comments"]]    )
 print(auto[["playingtime","total_comments"]].corr())
