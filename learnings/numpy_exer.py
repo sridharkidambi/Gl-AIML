@@ -83,3 +83,20 @@ print(simple_matrix.mean())
 print(simple_matrix.max())
 #### f) Retrieve the smallest number from the matrix
 print(simple_matrix.min())
+
+k=np.array([
+    [9.8,0],
+    [9.81,1],
+    [9.9,0],
+    [9.91,1], 
+    [9.2,0],
+    [9.21,1],
+    [9.7,0],
+    [9.71,1]
+])
+k1=k[:,1]==0
+print(k1)
+k2=k[k1][:, 0]
+print(k2)
+# k3=k[k1][:,1]
+# print(k3)
