@@ -1,6 +1,5 @@
 {
     "python.pythonPath": "/Users/sridharkidambi/anaconda/anaconda3/bin/python",
-    // "python.pythonPath": "/Users/sridharkidambi/anaconda3/bin/python3",
     "python.condaPath": "/Users/sridharkidambi/anaconda3/",
     "python.linting.pylintEnabled": false
 }
