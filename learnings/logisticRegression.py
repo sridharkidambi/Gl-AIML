@@ -9,6 +9,13 @@ from sklearn.impute import SimpleImputer
 from sklearn import metrics;
 from sklearn.linear_model import LogisticRegression;
 
+# ROC and AOC demo
+from sklearn.metrics import roc_curve,auc;
+from sklearn import svm;
+
+# changing threshold values:
+from sklearn.preprocessing import binarize;
+
 df_diabetics =pd.read_csv("diabetes.csv");
 
 print(df_diabetics.head());
@@ -71,9 +78,13 @@ print(x_train.head());
 # Logistic Regression
 
 logistic_reg_model = LogisticRegression(solver='liblinear');
+logistic_reg_model_2 = svm.SVC(kernel='linear',probability=True);
 logistic_reg_model.fit(x_train,y_train);
+logistic_reg_model_2.fit(x_train,y_train);
 
 y_predict =logistic_reg_model.predict(x_test);
+y_predict_1 =logistic_reg_model.predict_proba(x_test);
+y_predict_2 =logistic_reg_model_2.predict_proba(x_test);
 
 coeff_df=pd.DataFrame(logistic_reg_model.coef_);
 print(coeff_df);
@@ -88,6 +99,8 @@ df_cm=pd.DataFrame(cm,index=[i for i in ['Predict 1 ','Predict 0']],  columns=[i
 plt.figure(figsize=(7,5));
 sns.heatmap(df_cm,annot=True);
 
+
+
 # The confusion matrix
 
 # True Positives (TP): we correctly predicted that they do have diabetes 48
@@ -97,4 +110,40 @@ sns.heatmap(df_cm,annot=True);
 # False Positives (FP): we incorrectly predicted that they do have diabetes (a "Type I error") 14 Falsely predict positive Type I error
 
 # False Negatives (FN): we incorrectly predicted that they don't have diabetes (a "Type II error") 37 Falsely predict negative Type II error
+
+
+# Changing threshold values:
+# print(y_predict_2[:,1])
+y_predict_class = binarize(y_predict_2,threshold= 0.3)[0];
+print('values predict: ')
+print(y_predict_class);
+print('values predict ends. ')
+# cm1=metrics.confusion_matrix(y_test,y_predict_class,labels=(1,0));
+# print(cm1);
+# df_cm1=pd.DataFrame(cm1,index=[i for i in ['Predict 1 ','Predict 0']],  columns=[i for i in ['Predict 1 ','Predict 0']]);
+# plt.figure(figsize=(7,5));
+# sns.heatmap(df_cm1,annot=True);
+
+
+# ROC curve for y_predict_1 i
+
+fpr1,tpr1,thrshold1=roc_curve(y_test, y_predict_1 [:,1])
+roc_auc1=auc(fpr1,tpr1);
+print("Area under cuver is :%f" % roc_auc1);
+print("fpr is {}" ,fpr1);
+print("thershold is {}" ,thrshold1);
+print("tpr is {}" ,tpr1);
+
+fpr2,tpr2,thrshold2=roc_curve(y_test, y_predict_2 [:,1])
+roc_auc2=auc(fpr2,tpr2);
+print("Area under cuver is :%f" % roc_auc2);
+print("fpr is {}" ,fpr2);
+print("thershold is {}" ,thrshold2);
+print("tpr is {}" ,tpr2);
+print("Area under cuver is :%f" % roc_auc1);
+print("Area under cuver is :%f" % roc_auc2);
+
+
+
+
 plt.show();
