@@ -81,10 +81,11 @@ logistic_reg_model = LogisticRegression(solver='liblinear');
 logistic_reg_model_2 = svm.SVC(kernel='linear',probability=True);
 logistic_reg_model.fit(x_train,y_train);
 logistic_reg_model_2.fit(x_train,y_train);
-
+print('model trained')
 y_predict =logistic_reg_model.predict(x_test);
 y_predict_1 =logistic_reg_model.predict_proba(x_test);
 y_predict_2 =logistic_reg_model_2.predict_proba(x_test);
+print('model predict done')
 
 coeff_df=pd.DataFrame(logistic_reg_model.coef_);
 print(coeff_df);
