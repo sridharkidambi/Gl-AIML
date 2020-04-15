@@ -1144,3 +1144,800 @@ Tripura,Gomati,1,2020-04-13,Gi,0.0
 Tripura,North Tripura,1,2020-04-13,Na,0.0
 Nagaland,Dimapur,1,2020-04-13,Dr,0.0
 Meghalaya,East Khasi Hills,1,2020-04-13,Es,0.0
+Kerala,Thrissur,13,2020-04-14,Tr,0.0
+Kerala,Alappuzha,5,2020-04-14,Aa,0.0
+Kerala,Kasaragod,167,2020-04-14,Kd,0.6024096385542169
+Kerala,Pathanamthitta,17,2020-04-14,Pa,0.0
+Kerala,Kannur,77,2020-04-14,Kr,5.47945205479452
+Kerala,Ernakulam,24,2020-04-14,Em,0.0
+Kerala,Kottayam,3,2020-04-14,Km,0.0
+Kerala,Thiruvananthapuram,14,2020-04-14,Tm,0.0
+Kerala,Idukki,10,2020-04-14,Ii,0.0
+Kerala,Malappuram,20,2020-04-14,Mm,0.0
+Kerala,Kozhikode,16,2020-04-14,Ke,23.076923076923077
+Kerala,Palakkad,8,2020-04-14,Pd,0.0
+Kerala,Wayanad,3,2020-04-14,Wd,0.0
+Kerala,Kollam,9,2020-04-14,Km,0.0
+Delhi,East Delhi,1,2020-04-14,Ei,0.0
+Delhi,South West Delhi,3,2020-04-14,Si,0.0
+Delhi,West Delhi,2,2020-04-14,Wi,0.0
+Delhi,North Delhi,3,2020-04-14,Ni,0.0
+Delhi,New Delhi,5,2020-04-14,Ni,0.0
+Delhi,South Delhi,26,2020-04-14,Si,0.0
+Delhi,North East Delhi,1,2020-04-14,Ni,0.0
+Delhi,North West Delhi,3,2020-04-14,Ni,0.0
+Delhi,Unknown,1466,2020-04-14,Un,0.0
+Telangana,Hyderabad,197,2020-04-14,Hd,0.0
+Telangana,Karimnagar,18,2020-04-14,Kr,0.0
+Telangana,Bhadradri Kothagudem,4,2020-04-14,Bm,0.0
+Telangana,Ranga Reddy,34,2020-04-14,Ry,0.0
+Telangana,Medchal Malkajgiri,23,2020-04-14,Mi,0.0
+Telangana,Unknown,121,2020-04-14,Un,0.0
+Telangana,Rajanna Sircilla,1,2020-04-14,Ra,0.0
+Telangana,Khammam,2,2020-04-14,Km,0.0
+Telangana,Warangal Urban,24,2020-04-14,Wn,0.0
+Telangana,Vikarabad,8,2020-04-14,Vd,0.0
+Telangana,Suryapet,9,2020-04-14,St,0.0
+Telangana,Siddipet,1,2020-04-14,St,0.0
+Telangana,Sangareddy,7,2020-04-14,Sy,0.0
+Telangana,Nizamabad,49,2020-04-14,Nd,0.0
+Telangana,Medak,5,2020-04-14,Mk,0.0
+Telangana,Mahabubnagar,10,2020-04-14,Mr,0.0
+Telangana,Mahabubabad,1,2020-04-14,Md,0.0
+Telangana,Adilabad,10,2020-04-14,Ad,0.0
+Telangana,Nirmal,15,2020-04-14,Nl,0.0
+Telangana,Peddapalli,2,2020-04-14,Pi,0.0
+Telangana,Jagitial,2,2020-04-14,Jl,0.0
+Telangana,Jogulamba Gadwal,19,2020-04-14,Jl,0.0
+Telangana,Nalgonda,12,2020-04-14,Na,0.0
+Telangana,Nagarkurnool,2,2020-04-14,Nl,0.0
+Telangana,Mulugu,2,2020-04-14,Mu,0.0
+Telangana,Kamareddy,10,2020-04-14,Ky,0.0
+Telangana,Jayashankar,2,2020-04-14,Jr,0.0
+Telangana,Jangoan,2,2020-04-14,Jn,0.0
+Rajasthan,Italians*,2,2020-04-14,I*,0.0
+Rajasthan,Jaipur,441,2020-04-14,Jr,19.18918918918919
+Rajasthan,Jhunjhunu,32,2020-04-14,Ju,3.225806451612903
+Rajasthan,Bhilwara,28,2020-04-14,Ba,0.0
+Rajasthan,Jodhpur,82,2020-04-14,Jr,0.0
+Rajasthan,Pali,2,2020-04-14,Pi,0.0
+Rajasthan,Sikar,2,2020-04-14,Sr,0.0
+Rajasthan,Pratapgarh,2,2020-04-14,Ph,0.0
+Rajasthan,Dungarpur,5,2020-04-14,Dr,0.0
+Rajasthan,Churu,14,2020-04-14,Cu,0.0
+Rajasthan,Ajmer,5,2020-04-14,Ar,0.0
+Rajasthan,Evacuees,52,2020-04-14,Es,0.0
+Rajasthan,Alwar,7,2020-04-14,Ar,0.0
+Rajasthan,Tonk,59,2020-04-14,Tk,0.0
+Rajasthan,Dhaulpur,1,2020-04-14,Dr,0.0
+Rajasthan,Udaipur,4,2020-04-14,Ur,0.0
+Rajasthan,Bharatpur,20,2020-04-14,Br,0.0
+Rajasthan,Bikaner,34,2020-04-14,Br,0.0
+Rajasthan,Dausa,11,2020-04-14,Da,0.0
+Rajasthan,Banswara,59,2020-04-14,Ba,0.0
+Rajasthan,Karauli,3,2020-04-14,Ki,0.0
+Rajasthan,Nagaur,6,2020-04-14,Nr,0.0
+Rajasthan,Jaisalmer,29,2020-04-14,Jr,0.0
+Rajasthan,Kota,49,2020-04-14,Ka,0.0
+Rajasthan,Jhalawar,15,2020-04-14,Jr,0.0
+Rajasthan,Barmer,1,2020-04-14,Br,0.0
+Rajasthan,Hanumangarh,2,2020-04-14,Hh,0.0
+Rajasthan,Evacuees*,2,2020-04-14,E*,0.0
+Haryana,Italians*,14,2020-04-14,I*,0.0
+Haryana,Gurugram,32,2020-04-14,Gm,0.0
+Haryana,Faridabad,33,2020-04-14,Fd,6.451612903225806
+Haryana,Panipat,4,2020-04-14,Pt,0.0
+Haryana,Panchkula,5,2020-04-14,Pa,0.0
+Haryana,Sonipat,3,2020-04-14,St,0.0
+Haryana,Palwal,29,2020-04-14,Pl,0.0
+Haryana,Ambala,7,2020-04-14,Aa,0.0
+Haryana,Sirsa,4,2020-04-14,Sa,0.0
+Haryana,Hisar,2,2020-04-14,Hr,0.0
+Haryana,Rohtak,1,2020-04-14,Rk,0.0
+Haryana,Nuh,45,2020-04-14,Nh,0.0
+Haryana,Karnal,6,2020-04-14,Kl,0.0
+Haryana,Bhiwani,2,2020-04-14,Bi,0.0
+Haryana,Kaithal,2,2020-04-14,Kl,0.0
+Haryana,Charki Dadri,1,2020-04-14,Ci,0.0
+Haryana,Jind,2,2020-04-14,Jd,0.0
+Haryana,Fatehabad,1,2020-04-14,Fd,0.0
+Haryana,Kurukshetra,2,2020-04-14,Ka,0.0
+Haryana,Yamunanagar,3,2020-04-14,Yr,0.0
+Uttar Pradesh,Agra,143,2020-04-14,Aa,2.877697841726619
+Uttar Pradesh,Ghaziabad,27,2020-04-14,Gd,0.0
+Uttar Pradesh,Lucknow,41,2020-04-14,Lw,24.242424242424242
+Uttar Pradesh,Gautam Buddha Nagar,82,2020-04-14,Gr,24.242424242424242
+Uttar Pradesh,Kheri,4,2020-04-14,Ki,0.0
+Uttar Pradesh,Moradabad,19,2020-04-14,Md,850.0
+Uttar Pradesh,Varanasi,9,2020-04-14,Vi,0.0
+Uttar Pradesh,Kanpur Nagar,10,2020-04-14,Kr,11.11111111111111
+Uttar Pradesh,Pilibhit,2,2020-04-14,Pt,0.0
+Uttar Pradesh,Jaunpur,4,2020-04-14,Jr,0.0
+Uttar Pradesh,Baghpat,14,2020-04-14,Bt,100.0
+Uttar Pradesh,Shamli,22,2020-04-14,Si,29.411764705882355
+Uttar Pradesh,Meerut,61,2020-04-14,Mt,8.928571428571429
+Uttar Pradesh,Bareilly,6,2020-04-14,By,0.0
+Uttar Pradesh,Bulandshahr,11,2020-04-14,Br,0.0
+Uttar Pradesh,Basti,14,2020-04-14,Bi,0.0
+Uttar Pradesh,Hardoi,2,2020-04-14,Hi,0.0
+Uttar Pradesh,Shahjahanpur,1,2020-04-14,Sr,0.0
+Uttar Pradesh,Firozabad,19,2020-04-14,Fd,0.0
+Uttar Pradesh,Azamgarh,6,2020-04-14,Ah,0.0
+Uttar Pradesh,Saharanpur,53,2020-04-14,Sr,35.8974358974359
+Uttar Pradesh,Pratapgarh,6,2020-04-14,Ph,0.0
+Uttar Pradesh,Hapur,9,2020-04-14,Hr,50.0
+Uttar Pradesh,Ghazipur,5,2020-04-14,Gr,0.0
+Uttar Pradesh,Banda,3,2020-04-14,Ba,50.0
+Uttar Pradesh,Mahrajganj,6,2020-04-14,Mj,0.0
+Uttar Pradesh,Hathras,4,2020-04-14,Hs,0.0
+Uttar Pradesh,Mirzapur,2,2020-04-14,Mr,0.0
+Uttar Pradesh,Rae Bareli,2,2020-04-14,Ri,0.0
+Uttar Pradesh,Bara Banki,1,2020-04-14,Bi,0.0
+Uttar Pradesh,Auraiya,5,2020-04-14,Aa,66.66666666666666
+Uttar Pradesh,Mathura,7,2020-04-14,Ma,0.0
+Uttar Pradesh,Budaun,2,2020-04-14,Bn,0.0
+Uttar Pradesh,Kaushambi,2,2020-04-14,Ki,0.0
+Uttar Pradesh,Bijnor,1,2020-04-14,Br,0.0
+Uttar Pradesh,Prayagraj,1,2020-04-14,Pj,0.0
+Uttar Pradesh,Sitapur,13,2020-04-14,Sr,30.0
+Uttar Pradesh,Muzaffarnagar,7,2020-04-14,Mr,0.0
+Uttar Pradesh,Amroha,9,2020-04-14,Aa,28.57142857142857
+Uttar Pradesh,Rampur,6,2020-04-14,Rr,0.0
+Uttar Pradesh,Bhadohi,1,2020-04-14,Bi,0.0
+Uttar Pradesh,Kasganj,3,2020-04-14,Kj,0.0
+Uttar Pradesh,Etawah,1,2020-04-14,Eh,0.0
+Uttar Pradesh,Bijapur,8,2020-04-14,Br,0.0
+Uttar Pradesh,Sambhal,6,2020-04-14,Sl,0.0
+Ladakh,Leh,13,2020-04-14,Lh,0.0
+Ladakh,Kargil,4,2020-04-14,Kl,0.0
+Tamil Nadu,Kancheepuram,7,2020-04-14,Km,0.0
+Tamil Nadu,Chennai,214,2020-04-14,Ci,2.3923444976076556
+Tamil Nadu,Erode,64,2020-04-14,Ee,0.0
+Tamil Nadu,Coimbatore,126,2020-04-14,Ce,0.0
+Tamil Nadu,Tirunelveli,58,2020-04-14,Ti,0.0
+Tamil Nadu,Tiruppur,79,2020-04-14,Tr,0.0
+Tamil Nadu,Madurai,41,2020-04-14,Mi,5.128205128205128
+Tamil Nadu,Chengalpattu,44,2020-04-14,Cu,0.0
+Tamil Nadu,Salem,19,2020-04-14,Sm,5.555555555555555
+Tamil Nadu,Ranipet,38,2020-04-14,Rt,0.0
+Tamil Nadu,Thanjavur,15,2020-04-14,Tr,36.36363636363637
+Tamil Nadu,Vellore,16,2020-04-14,Ve,0.0
+Tamil Nadu,Virudhunagar,17,2020-04-14,Vr,0.0
+Tamil Nadu,Karur,40,2020-04-14,Kr,0.0
+Tamil Nadu,Tiruvannamalai,8,2020-04-14,Ti,0.0
+Tamil Nadu,Viluppuram,27,2020-04-14,Vm,0.0
+Tamil Nadu,Namakkal,45,2020-04-14,Nl,0.0
+Tamil Nadu,Kanniyakumari,16,2020-04-14,Ki,6.666666666666667
+Tamil Nadu,Thoothukkudi,26,2020-04-14,Ti,0.0
+Tamil Nadu,Theni,41,2020-04-14,Ti,0.0
+Tamil Nadu,Dindigul,65,2020-04-14,Dl,16.071428571428573
+Tamil Nadu,Sivaganga,11,2020-04-14,Sa,10.0
+Tamil Nadu,Tirupathur,17,2020-04-14,Tr,0.0
+Tamil Nadu,Thiruvarur,16,2020-04-14,Tr,0.0
+Tamil Nadu,Ramanathapuram,7,2020-04-14,Rm,40.0
+Tamil Nadu,Thiruvallur,34,2020-04-14,Tr,0.0
+Tamil Nadu,Nagapattinam,31,2020-04-14,Nm,6.896551724137931
+Tamil Nadu,Cuddalore,20,2020-04-14,Ce,5.263157894736842
+Tamil Nadu,Kallakurichi,3,2020-04-14,Ki,0.0
+Tamil Nadu,Perambalur,1,2020-04-14,Pr,0.0
+Tamil Nadu,Tiruchirappalli,43,2020-04-14,Ti,0.0
+Tamil Nadu,The Nilgiris,9,2020-04-14,Ts,0.0
+Tamil Nadu,Ariyalur,1,2020-04-14,Ar,0.0
+Tamil Nadu,Tenkasi,5,2020-04-14,Ti,150.0
+Jammu and Kashmir,Jammu,23,2020-04-14,Ju,9.523809523809524
+Jammu and Kashmir,Srinagar,72,2020-04-14,Sr,4.3478260869565215
+Jammu and Kashmir,Bandipore,53,2020-04-14,Be,3.9215686274509802
+Jammu and Kashmir,Rajouri,3,2020-04-14,Ri,0.0
+Jammu and Kashmir,Badgam,11,2020-04-14,Bm,0.0
+Jammu and Kashmir,Baramula,40,2020-04-14,Ba,0.0
+Jammu and Kashmir,Shupiyan,14,2020-04-14,Sn,0.0
+Jammu and Kashmir,Udhampur,19,2020-04-14,Ur,0.0
+Jammu and Kashmir,Pulwama,3,2020-04-14,Pa,0.0
+Jammu and Kashmir,Kupwara,23,2020-04-14,Ka,0.0
+Jammu and Kashmir,Ganderbal,5,2020-04-14,Gl,0.0
+Jammu and Kashmir,Kulgam,5,2020-04-14,Km,0.0
+Jammu and Kashmir,Kishtwar,1,2020-04-14,Kr,0.0
+Jammu and Kashmir,Samba,4,2020-04-14,Sa,0.0
+Jammu and Kashmir,Budaun,1,2020-04-14,Bn,0.0
+Jammu and Kashmir,Unknown,1,2020-04-14,Un,0.0
+Karnataka,Bengaluru,80,2020-04-14,Bu,3.896103896103896
+Karnataka,Kalaburagi,16,2020-04-14,Ki,23.076923076923077
+Karnataka,Kodagu,1,2020-04-14,Ku,0.0
+Karnataka,Mysuru,48,2020-04-14,Mu,0.0
+Karnataka,Dharwad,6,2020-04-14,Dd,0.0
+Karnataka,Uttara Kannada,10,2020-04-14,Ua,11.11111111111111
+Karnataka,Dakshina Kannada,12,2020-04-14,Da,0.0
+Karnataka,Chikkaballapura,10,2020-04-14,Ca,11.11111111111111
+Karnataka,Udupi,3,2020-04-14,Ui,0.0
+Karnataka,Davanagere,3,2020-04-14,De,0.0
+Karnataka,Tumakuru,1,2020-04-14,Tu,0.0
+Karnataka,Ballari,6,2020-04-14,Bi,0.0
+Karnataka,Bidar,13,2020-04-14,Br,0.0
+Karnataka,Bagalkote,12,2020-04-14,Be,33.33333333333333
+Karnataka,Belagavi,18,2020-04-14,Bi,5.88235294117647
+Karnataka,Bengaluru Rural,5,2020-04-14,Bl,0.0
+Karnataka,Gadag,1,2020-04-14,Gg,0.0
+Karnataka,Mandya,8,2020-04-14,Ma,0.0
+Karnataka,Vijayapura,7,2020-04-14,Va,16.666666666666664
+Maharashtra,Pune,308,2020-04-14,Pe,15.789473684210526
+Maharashtra,Mumbai,1540,2020-04-14,Mi,13.48563006632277
+Maharashtra,Nagpur,39,2020-04-14,Nr,39.285714285714285
+Maharashtra,Ahmadnagar,27,2020-04-14,Ar,3.8461538461538463
+Maharashtra,Thane,206,2020-04-14,Te,8.421052631578947
+Maharashtra,Raigarh,14,2020-04-14,Rh,16.666666666666664
+Maharashtra,Yavatmal,5,2020-04-14,Yl,25.0
+Maharashtra,Aurangabad,23,2020-04-14,Ad,21.052631578947366
+Maharashtra,Ratnagiri,5,2020-04-14,Ri,0.0
+Maharashtra,Palghar,30,2020-04-14,Pr,7.142857142857142
+Maharashtra,Sangli,26,2020-04-14,Si,0.0
+Maharashtra,Satara,6,2020-04-14,Sa,0.0
+Maharashtra,Sindhudurg,1,2020-04-14,Sg,0.0
+Maharashtra,Gondiya,1,2020-04-14,Ga,0.0
+Maharashtra,Kolhapur,6,2020-04-14,Kr,0.0
+Maharashtra,Other States*,9,2020-04-14,O*,0.0
+Maharashtra,Jalgaon,2,2020-04-14,Jn,0.0
+Maharashtra,Buldana,17,2020-04-14,Ba,30.76923076923077
+Maharashtra,Nashik,33,2020-04-14,Nk,10.0
+Maharashtra,Osmanabad,4,2020-04-14,Od,0.0
+Maharashtra,Washim,1,2020-04-14,Wm,0.0
+Maharashtra,Hingoli,1,2020-04-14,Hi,0.0
+Maharashtra,Amravati,5,2020-04-14,Ai,0.0
+Maharashtra,Latur,8,2020-04-14,Lr,0.0
+Maharashtra,Jalna,1,2020-04-14,Ja,0.0
+Maharashtra,Akola,12,2020-04-14,Aa,0.0
+Maharashtra,Bid,1,2020-04-14,Bd,0.0
+Maharashtra,Dhule,2,2020-04-14,De,100.0
+Maharashtra,Solapur,1,2020-04-14,Sr,0.0
+Maharashtra,Unknown,121,2020-04-14,Un,-55.18518518518518
+Punjab,Amritsar,11,2020-04-14,Ar,0.0
+Punjab,Shahid Bhagat Singh Nagar,19,2020-04-14,Sr,0.0
+Punjab,S.A.S. Nagar,56,2020-04-14,Sr,3.7037037037037033
+Punjab,Hoshiarpur,7,2020-04-14,Hr,0.0
+Punjab,Jalandhar,25,2020-04-14,Jr,4.166666666666666
+Punjab,Ludhiana,11,2020-04-14,La,0.0
+Punjab,Patiala,2,2020-04-14,Pa,0.0
+Punjab,Rupnagar,3,2020-04-14,Rr,0.0
+Punjab,Mansa,11,2020-04-14,Ma,0.0
+Punjab,Pathankot,22,2020-04-14,Pt,22.22222222222222
+Punjab,Faridkot,3,2020-04-14,Ft,0.0
+Punjab,Barnala,2,2020-04-14,Ba,0.0
+Punjab,Fatehgarh Sahib,2,2020-04-14,Fb,0.0
+Punjab,Kapurthala,2,2020-04-14,Ka,0.0
+Punjab,Moga,4,2020-04-14,Ma,0.0
+Punjab,Sri Muktsar Sahib,1,2020-04-14,Sb,0.0
+Punjab,Sangrur,2,2020-04-14,Sr,0.0
+Punjab,Gurdaspur,1,2020-04-14,Gr,0.0
+Andhra Pradesh,S.P.S. Nellore,57,2020-04-14,Se,1.7857142857142856
+Andhra Pradesh,Prakasam,41,2020-04-14,Pm,0.0
+Andhra Pradesh,Visakhapatnam,20,2020-04-14,Vm,0.0
+Andhra Pradesh,East Godavari,17,2020-04-14,Ei,0.0
+Andhra Pradesh,Krishna,44,2020-04-14,Ka,22.22222222222222
+Andhra Pradesh,Chittoor,24,2020-04-14,Cr,4.3478260869565215
+Andhra Pradesh,Guntur,109,2020-04-14,Gr,17.20430107526882
+Andhra Pradesh,Kurnool,91,2020-04-14,Kl,8.333333333333332
+Andhra Pradesh,Anantapur,17,2020-04-14,Ar,13.333333333333334
+Andhra Pradesh,West Godavari,23,2020-04-14,Wi,0.0
+Andhra Pradesh,Y.S.R.,30,2020-04-14,Y.,-3.225806451612903
+Uttarakhand,Dehradun,18,2020-04-14,Dn,0.0
+Uttarakhand,Pauri Garhwal,2,2020-04-14,Pl,0.0
+Uttarakhand,Udham Singh Nagar,3,2020-04-14,Ur,0.0
+Uttarakhand,Nainital,8,2020-04-14,Nl,0.0
+Uttarakhand,Haridwar,3,2020-04-14,Hr,0.0
+Uttarakhand,Almora,1,2020-04-14,Aa,0.0
+Uttarakhand,Unknown,2,2020-04-14,Un,0.0
+Odisha,Khordha,46,2020-04-14,Ka,9.523809523809524
+Odisha,Bhadrak,3,2020-04-14,Bk,0.0
+Odisha,Cuttack,1,2020-04-14,Ck,0.0
+Odisha,Puri,1,2020-04-14,Pi,0.0
+Odisha,Jajapur,2,2020-04-14,Jr,100.0
+Odisha,Kalahandi,2,2020-04-14,Ki,0.0
+Odisha,Kendrapara,2,2020-04-14,Ka,0.0
+Odisha,Dhenkanal,1,2020-04-14,Dl,0.0
+Odisha,Sundargarh,2,2020-04-14,Sh,0.0
+Puducherry,Mahe,1,2020-04-14,Me,0.0
+Puducherry,Puducherry,6,2020-04-14,Py,0.0
+West Bengal,Kolkata,11,2020-04-14,Ka,0.0
+West Bengal,North 24 Parganas,4,2020-04-14,Ns,0.0
+West Bengal,Nadia,5,2020-04-14,Na,0.0
+West Bengal,Medinipur East,3,2020-04-14,Mt,0.0
+West Bengal,Kalimpong,1,2020-04-14,Kg,0.0
+West Bengal,Hooghly,1,2020-04-14,Hy,0.0
+West Bengal,Howrah,1,2020-04-14,Hh,0.0
+West Bengal,South 24 Parganas,1,2020-04-14,Ss,0.0
+West Bengal,Unknown,163,2020-04-14,Un,30.4
+Chandigarh,Chandigarh,21,2020-04-14,Ch,0.0
+Chhattisgarh,Raipur,5,2020-04-14,Rr,0.0
+Chhattisgarh,Rajnandgaon,1,2020-04-14,Rn,0.0
+Chhattisgarh,Bilaspur,1,2020-04-14,Br,0.0
+Chhattisgarh,Durg,1,2020-04-14,Dg,0.0
+Chhattisgarh,Korba,25,2020-04-14,Ka,8.695652173913043
+Gujarat,Rajkot,18,2020-04-14,Rt,0.0
+Gujarat,Surat,42,2020-04-14,St,27.27272727272727
+Gujarat,Ahmadabad,373,2020-04-14,Ad,16.5625
+Gujarat,Vadodara,113,2020-04-14,Va,5.607476635514018
+Gujarat,Gandhinagar,16,2020-04-14,Gr,6.666666666666667
+Gujarat,Kachchh,4,2020-04-14,Kh,0.0
+Gujarat,Mahesana,4,2020-04-14,Ma,100.0
+Gujarat,Bhavnagar,26,2020-04-14,Br,13.043478260869565
+Gujarat,Porbandar,3,2020-04-14,Pr,0.0
+Gujarat,Gir Somnath,2,2020-04-14,Gh,0.0
+Gujarat,Panch Mahals,2,2020-04-14,Ps,0.0
+Gujarat,Patan,14,2020-04-14,Pn,0.0
+Gujarat,Chota Udaipur,5,2020-04-14,Cr,66.66666666666666
+Gujarat,Jamnagar,1,2020-04-14,Jr,0.0
+Gujarat,Morbi,1,2020-04-14,Mi,0.0
+Gujarat,Anand,10,2020-04-14,Ad,11.11111111111111
+Gujarat,Sabar Kantha,1,2020-04-14,Sa,0.0
+Gujarat,Dahod,2,2020-04-14,Dd,100.0
+Gujarat,Bharuch,11,2020-04-14,Bh,0.0
+Gujarat,Banas Kantha,2,2020-04-14,Ba,0.0
+Himachal Pradesh,Kangra,4,2020-04-14,Ka,0.0
+Himachal Pradesh,Una,14,2020-04-14,Ua,0.0
+Himachal Pradesh,Solan,9,2020-04-14,Sn,0.0
+Himachal Pradesh,Chamba,4,2020-04-14,Ca,0.0
+Himachal Pradesh,Sirmaur,1,2020-04-14,Sr,0.0
+Madhya Pradesh,Jabalpur,10,2020-04-14,Jr,0.0
+Madhya Pradesh,Bhopal,142,2020-04-14,Bl,0.0
+Madhya Pradesh,Indore,328,2020-04-14,Ie,0.0
+Madhya Pradesh,Ujjain,24,2020-04-14,Un,0.0
+Madhya Pradesh,Gwalior,6,2020-04-14,Gr,0.0
+Madhya Pradesh,Shivpuri,2,2020-04-14,Si,0.0
+Madhya Pradesh,Chhindwara,4,2020-04-14,Ca,0.0
+Madhya Pradesh,Morena,14,2020-04-14,Ma,0.0
+Madhya Pradesh,Khargone,17,2020-04-14,Ke,0.0
+Madhya Pradesh,Barwani,14,2020-04-14,Bi,0.0
+Madhya Pradesh,Betul,1,2020-04-14,Bl,0.0
+Madhya Pradesh,Vidisha,13,2020-04-14,Va,0.0
+Madhya Pradesh,Other Region*,1,2020-04-14,O*,0.0
+Madhya Pradesh,Sheopur,2,2020-04-14,Sr,0.0
+Madhya Pradesh,Khandwa,6,2020-04-14,Ka,0.0
+Madhya Pradesh,Dhar,2,2020-04-14,Dr,0.0
+Madhya Pradesh,Hoshangabad,15,2020-04-14,Hd,0.0
+Madhya Pradesh,Raisen,5,2020-04-14,Rn,0.0
+Madhya Pradesh,Dewas,4,2020-04-14,Ds,0.0
+Madhya Pradesh,Sagar,1,2020-04-14,Sr,0.0
+Madhya Pradesh,Shajapur,1,2020-04-14,Sr,0.0
+Madhya Pradesh,Ratlam,1,2020-04-14,Rm,0.0
+Madhya Pradesh,Mandsaur,1,2020-04-14,Mr,0.0
+Bihar,Munger,7,2020-04-14,Mr,0.0
+Bihar,Patna,5,2020-04-14,Pa,0.0
+Bihar,Siwan,29,2020-04-14,Sn,0.0
+Bihar,Nalanda,3,2020-04-14,Na,0.0
+Bihar,Lakhisarai,1,2020-04-14,Li,0.0
+Bihar,Gopalganj,3,2020-04-14,Gj,0.0
+Bihar,Gaya,5,2020-04-14,Ga,0.0
+Bihar,Begusarai,8,2020-04-14,Bi,0.0
+Bihar,Saran,1,2020-04-14,Sn,0.0
+Bihar,Bhagalpur,1,2020-04-14,Br,0.0
+Bihar,Nawada,3,2020-04-14,Na,0.0
+Manipur,Imphal West,1,2020-04-14,It,0.0
+Manipur,Unknown,1,2020-04-14,Un,0.0
+Mizoram,Aizawl,1,2020-04-14,Al,0.0
+Goa,North Goa,4,2020-04-14,Na,0.0
+Goa,Unknown,3,2020-04-14,Un,0.0
+Andaman and Nicobar Islands,South Andaman,5,2020-04-14,Sn,0.0
+Andaman and Nicobar Islands,North and Middle Andaman,1,2020-04-14,Nn,0.0
+Andaman and Nicobar Islands,Unknown,5,2020-04-14,Un,0.0
+Jharkhand,Ranchi,11,2020-04-14,Ri,0.0
+Jharkhand,Hazaribagh,2,2020-04-14,Hh,0.0
+Jharkhand,Bokaro,9,2020-04-14,Bo,0.0
+Jharkhand,Kodarma,1,2020-04-14,Ka,0.0
+Jharkhand,Giridih,1,2020-04-14,Gh,0.0
+Jharkhand,Unknown,3,2020-04-14,Un,0.0
+Assam,Cachar,2,2020-04-14,Cr,0.0
+Assam,Kamrup Metropolitan,5,2020-04-14,Kn,0.0
+Assam,Jorhat,8,2020-04-14,Jt,0.0
+Assam,Goalpara,4,2020-04-14,Ga,33.33333333333333
+Assam,Nalbari,3,2020-04-14,Ni,0.0
+Assam,South Salmara Mancachar,1,2020-04-14,Sr,0.0
+Assam,Kamrup,1,2020-04-14,Kp,0.0
+Assam,Morigaon,1,2020-04-14,Mn,0.0
+Assam,Golaghat,1,2020-04-14,Gt,0.0
+Assam,Lakhimpur,1,2020-04-14,Lr,0.0
+Assam,Dhubri,3,2020-04-14,Di,0.0
+Assam,Hailakandi,1,2020-04-14,Hi,0.0
+Arunachal Pradesh,Lohit,1,2020-04-14,Lt,0.0
+Dadra and Nagar Haveli,Unknown,1,2020-04-14,Un,0.0
+Tripura,Gomati,1,2020-04-14,Gi,0.0
+Tripura,North Tripura,1,2020-04-14,Na,0.0
+Nagaland,Dimapur,1,2020-04-14,Dr,0.0
+Meghalaya,East Khasi Hills,1,2020-04-14,Es,0.0
+Kerala,Thrissur,13,2020-04-15,Tr,0.0
+Kerala,Alappuzha,5,2020-04-15,Aa,0.0
+Kerala,Kasaragod,167,2020-04-15,Kd,0.0
+Kerala,Pathanamthitta,17,2020-04-15,Pa,0.0
+Kerala,Kannur,77,2020-04-15,Kr,0.0
+Kerala,Ernakulam,24,2020-04-15,Em,0.0
+Kerala,Kottayam,3,2020-04-15,Km,0.0
+Kerala,Thiruvananthapuram,14,2020-04-15,Tm,0.0
+Kerala,Idukki,10,2020-04-15,Ii,0.0
+Kerala,Malappuram,20,2020-04-15,Mm,0.0
+Kerala,Kozhikode,16,2020-04-15,Ke,0.0
+Kerala,Palakkad,8,2020-04-15,Pd,0.0
+Kerala,Wayanad,3,2020-04-15,Wd,0.0
+Kerala,Kollam,9,2020-04-15,Km,0.0
+Delhi,East Delhi,1,2020-04-15,Ei,0.0
+Delhi,South West Delhi,3,2020-04-15,Si,0.0
+Delhi,West Delhi,2,2020-04-15,Wi,0.0
+Delhi,North Delhi,3,2020-04-15,Ni,0.0
+Delhi,New Delhi,5,2020-04-15,Ni,0.0
+Delhi,South Delhi,26,2020-04-15,Si,0.0
+Delhi,North East Delhi,1,2020-04-15,Ni,0.0
+Delhi,North West Delhi,3,2020-04-15,Ni,0.0
+Delhi,Unknown,1517,2020-04-15,Un,3.4788540245566164
+Telangana,Hyderabad,197,2020-04-15,Hd,0.0
+Telangana,Karimnagar,18,2020-04-15,Kr,0.0
+Telangana,Bhadradri Kothagudem,4,2020-04-15,Bm,0.0
+Telangana,Ranga Reddy,34,2020-04-15,Ry,0.0
+Telangana,Medchal Malkajgiri,23,2020-04-15,Mi,0.0
+Telangana,Unknown,173,2020-04-15,Un,42.97520661157025
+Telangana,Rajanna Sircilla,1,2020-04-15,Ra,0.0
+Telangana,Khammam,2,2020-04-15,Km,0.0
+Telangana,Warangal Urban,24,2020-04-15,Wn,0.0
+Telangana,Vikarabad,8,2020-04-15,Vd,0.0
+Telangana,Suryapet,9,2020-04-15,St,0.0
+Telangana,Siddipet,1,2020-04-15,St,0.0
+Telangana,Sangareddy,7,2020-04-15,Sy,0.0
+Telangana,Nizamabad,49,2020-04-15,Nd,0.0
+Telangana,Medak,5,2020-04-15,Mk,0.0
+Telangana,Mahabubnagar,10,2020-04-15,Mr,0.0
+Telangana,Mahabubabad,1,2020-04-15,Md,0.0
+Telangana,Adilabad,10,2020-04-15,Ad,0.0
+Telangana,Nirmal,15,2020-04-15,Nl,0.0
+Telangana,Peddapalli,2,2020-04-15,Pi,0.0
+Telangana,Jagitial,2,2020-04-15,Jl,0.0
+Telangana,Jogulamba Gadwal,19,2020-04-15,Jl,0.0
+Telangana,Nalgonda,12,2020-04-15,Na,0.0
+Telangana,Nagarkurnool,2,2020-04-15,Nl,0.0
+Telangana,Mulugu,2,2020-04-15,Mu,0.0
+Telangana,Kamareddy,10,2020-04-15,Ky,0.0
+Telangana,Jayashankar,2,2020-04-15,Jr,0.0
+Telangana,Jangoan,2,2020-04-15,Jn,0.0
+Rajasthan,Italians*,2,2020-04-15,I*,0.0
+Rajasthan,Jaipur,453,2020-04-15,Jr,2.7210884353741496
+Rajasthan,Jhunjhunu,32,2020-04-15,Ju,0.0
+Rajasthan,Bhilwara,28,2020-04-15,Ba,0.0
+Rajasthan,Jodhpur,95,2020-04-15,Jr,15.853658536585366
+Rajasthan,Pali,2,2020-04-15,Pi,0.0
+Rajasthan,Sikar,2,2020-04-15,Sr,0.0
+Rajasthan,Pratapgarh,2,2020-04-15,Ph,0.0
+Rajasthan,Dungarpur,5,2020-04-15,Dr,0.0
+Rajasthan,Churu,14,2020-04-15,Cu,0.0
+Rajasthan,Ajmer,5,2020-04-15,Ar,0.0
+Rajasthan,Evacuees,52,2020-04-15,Es,0.0
+Rajasthan,Alwar,7,2020-04-15,Ar,0.0
+Rajasthan,Tonk,59,2020-04-15,Tk,0.0
+Rajasthan,Dhaulpur,1,2020-04-15,Dr,0.0
+Rajasthan,Udaipur,4,2020-04-15,Ur,0.0
+Rajasthan,Bharatpur,20,2020-04-15,Br,0.0
+Rajasthan,Bikaner,34,2020-04-15,Br,0.0
+Rajasthan,Dausa,11,2020-04-15,Da,0.0
+Rajasthan,Banswara,59,2020-04-15,Ba,0.0
+Rajasthan,Karauli,3,2020-04-15,Ki,0.0
+Rajasthan,Nagaur,6,2020-04-15,Nr,0.0
+Rajasthan,Jaisalmer,30,2020-04-15,Jr,3.4482758620689653
+Rajasthan,Kota,57,2020-04-15,Ka,16.3265306122449
+Rajasthan,Jhalawar,17,2020-04-15,Jr,13.333333333333334
+Rajasthan,Barmer,1,2020-04-15,Br,0.0
+Rajasthan,Hanumangarh,2,2020-04-15,Hh,0.0
+Rajasthan,Evacuees*,2,2020-04-15,E*,0.0
+Haryana,Italians*,14,2020-04-15,I*,0.0
+Haryana,Gurugram,32,2020-04-15,Gm,0.0
+Haryana,Faridabad,33,2020-04-15,Fd,0.0
+Haryana,Panipat,4,2020-04-15,Pt,0.0
+Haryana,Panchkula,5,2020-04-15,Pa,0.0
+Haryana,Sonipat,3,2020-04-15,St,0.0
+Haryana,Palwal,29,2020-04-15,Pl,0.0
+Haryana,Ambala,7,2020-04-15,Aa,0.0
+Haryana,Sirsa,4,2020-04-15,Sa,0.0
+Haryana,Hisar,2,2020-04-15,Hr,0.0
+Haryana,Rohtak,1,2020-04-15,Rk,0.0
+Haryana,Nuh,45,2020-04-15,Nh,0.0
+Haryana,Karnal,6,2020-04-15,Kl,0.0
+Haryana,Bhiwani,2,2020-04-15,Bi,0.0
+Haryana,Kaithal,2,2020-04-15,Kl,0.0
+Haryana,Charki Dadri,1,2020-04-15,Ci,0.0
+Haryana,Jind,2,2020-04-15,Jd,0.0
+Haryana,Fatehabad,1,2020-04-15,Fd,0.0
+Haryana,Kurukshetra,2,2020-04-15,Ka,0.0
+Haryana,Yamunanagar,3,2020-04-15,Yr,0.0
+Uttar Pradesh,Agra,143,2020-04-15,Aa,0.0
+Uttar Pradesh,Ghaziabad,27,2020-04-15,Gd,0.0
+Uttar Pradesh,Lucknow,41,2020-04-15,Lw,0.0
+Uttar Pradesh,Gautam Buddha Nagar,82,2020-04-15,Gr,0.0
+Uttar Pradesh,Kheri,4,2020-04-15,Ki,0.0
+Uttar Pradesh,Moradabad,19,2020-04-15,Md,0.0
+Uttar Pradesh,Varanasi,9,2020-04-15,Vi,0.0
+Uttar Pradesh,Kanpur Nagar,10,2020-04-15,Kr,0.0
+Uttar Pradesh,Pilibhit,2,2020-04-15,Pt,0.0
+Uttar Pradesh,Jaunpur,4,2020-04-15,Jr,0.0
+Uttar Pradesh,Baghpat,14,2020-04-15,Bt,0.0
+Uttar Pradesh,Shamli,22,2020-04-15,Si,0.0
+Uttar Pradesh,Meerut,61,2020-04-15,Mt,0.0
+Uttar Pradesh,Bareilly,6,2020-04-15,By,0.0
+Uttar Pradesh,Bulandshahr,11,2020-04-15,Br,0.0
+Uttar Pradesh,Basti,14,2020-04-15,Bi,0.0
+Uttar Pradesh,Hardoi,2,2020-04-15,Hi,0.0
+Uttar Pradesh,Shahjahanpur,1,2020-04-15,Sr,0.0
+Uttar Pradesh,Firozabad,19,2020-04-15,Fd,0.0
+Uttar Pradesh,Azamgarh,6,2020-04-15,Ah,0.0
+Uttar Pradesh,Saharanpur,53,2020-04-15,Sr,0.0
+Uttar Pradesh,Pratapgarh,6,2020-04-15,Ph,0.0
+Uttar Pradesh,Hapur,9,2020-04-15,Hr,0.0
+Uttar Pradesh,Ghazipur,5,2020-04-15,Gr,0.0
+Uttar Pradesh,Banda,3,2020-04-15,Ba,0.0
+Uttar Pradesh,Mahrajganj,6,2020-04-15,Mj,0.0
+Uttar Pradesh,Hathras,4,2020-04-15,Hs,0.0
+Uttar Pradesh,Mirzapur,2,2020-04-15,Mr,0.0
+Uttar Pradesh,Rae Bareli,2,2020-04-15,Ri,0.0
+Uttar Pradesh,Bara Banki,1,2020-04-15,Bi,0.0
+Uttar Pradesh,Auraiya,5,2020-04-15,Aa,0.0
+Uttar Pradesh,Mathura,7,2020-04-15,Ma,0.0
+Uttar Pradesh,Budaun,2,2020-04-15,Bn,0.0
+Uttar Pradesh,Kaushambi,2,2020-04-15,Ki,0.0
+Uttar Pradesh,Bijnor,1,2020-04-15,Br,0.0
+Uttar Pradesh,Prayagraj,1,2020-04-15,Pj,0.0
+Uttar Pradesh,Sitapur,13,2020-04-15,Sr,0.0
+Uttar Pradesh,Muzaffarnagar,7,2020-04-15,Mr,0.0
+Uttar Pradesh,Amroha,9,2020-04-15,Aa,0.0
+Uttar Pradesh,Rampur,6,2020-04-15,Rr,0.0
+Uttar Pradesh,Bhadohi,1,2020-04-15,Bi,0.0
+Uttar Pradesh,Kasganj,3,2020-04-15,Kj,0.0
+Uttar Pradesh,Etawah,1,2020-04-15,Eh,0.0
+Uttar Pradesh,Bijapur,8,2020-04-15,Br,0.0
+Uttar Pradesh,Sambhal,6,2020-04-15,Sl,0.0
+Ladakh,Leh,13,2020-04-15,Lh,0.0
+Ladakh,Kargil,4,2020-04-15,Kl,0.0
+Tamil Nadu,Kancheepuram,7,2020-04-15,Km,0.0
+Tamil Nadu,Chennai,214,2020-04-15,Ci,0.0
+Tamil Nadu,Erode,64,2020-04-15,Ee,0.0
+Tamil Nadu,Coimbatore,126,2020-04-15,Ce,0.0
+Tamil Nadu,Tirunelveli,58,2020-04-15,Ti,0.0
+Tamil Nadu,Tiruppur,79,2020-04-15,Tr,0.0
+Tamil Nadu,Madurai,41,2020-04-15,Mi,0.0
+Tamil Nadu,Chengalpattu,44,2020-04-15,Cu,0.0
+Tamil Nadu,Salem,19,2020-04-15,Sm,0.0
+Tamil Nadu,Ranipet,38,2020-04-15,Rt,0.0
+Tamil Nadu,Thanjavur,15,2020-04-15,Tr,0.0
+Tamil Nadu,Vellore,16,2020-04-15,Ve,0.0
+Tamil Nadu,Virudhunagar,17,2020-04-15,Vr,0.0
+Tamil Nadu,Karur,40,2020-04-15,Kr,0.0
+Tamil Nadu,Tiruvannamalai,8,2020-04-15,Ti,0.0
+Tamil Nadu,Viluppuram,27,2020-04-15,Vm,0.0
+Tamil Nadu,Namakkal,45,2020-04-15,Nl,0.0
+Tamil Nadu,Kanniyakumari,16,2020-04-15,Ki,0.0
+Tamil Nadu,Thoothukkudi,26,2020-04-15,Ti,0.0
+Tamil Nadu,Theni,41,2020-04-15,Ti,0.0
+Tamil Nadu,Dindigul,65,2020-04-15,Dl,0.0
+Tamil Nadu,Sivaganga,11,2020-04-15,Sa,0.0
+Tamil Nadu,Tirupathur,17,2020-04-15,Tr,0.0
+Tamil Nadu,Thiruvarur,16,2020-04-15,Tr,0.0
+Tamil Nadu,Ramanathapuram,7,2020-04-15,Rm,0.0
+Tamil Nadu,Thiruvallur,34,2020-04-15,Tr,0.0
+Tamil Nadu,Nagapattinam,31,2020-04-15,Nm,0.0
+Tamil Nadu,Cuddalore,20,2020-04-15,Ce,0.0
+Tamil Nadu,Kallakurichi,3,2020-04-15,Ki,0.0
+Tamil Nadu,Perambalur,1,2020-04-15,Pr,0.0
+Tamil Nadu,Tiruchirappalli,43,2020-04-15,Ti,0.0
+Tamil Nadu,The Nilgiris,9,2020-04-15,Ts,0.0
+Tamil Nadu,Ariyalur,1,2020-04-15,Ar,0.0
+Tamil Nadu,Tenkasi,5,2020-04-15,Ti,0.0
+Jammu and Kashmir,Jammu,23,2020-04-15,Ju,0.0
+Jammu and Kashmir,Srinagar,72,2020-04-15,Sr,0.0
+Jammu and Kashmir,Bandipore,53,2020-04-15,Be,0.0
+Jammu and Kashmir,Rajouri,3,2020-04-15,Ri,0.0
+Jammu and Kashmir,Badgam,11,2020-04-15,Bm,0.0
+Jammu and Kashmir,Baramula,40,2020-04-15,Ba,0.0
+Jammu and Kashmir,Shupiyan,14,2020-04-15,Sn,0.0
+Jammu and Kashmir,Udhampur,19,2020-04-15,Ur,0.0
+Jammu and Kashmir,Pulwama,3,2020-04-15,Pa,0.0
+Jammu and Kashmir,Kupwara,23,2020-04-15,Ka,0.0
+Jammu and Kashmir,Ganderbal,5,2020-04-15,Gl,0.0
+Jammu and Kashmir,Kulgam,5,2020-04-15,Km,0.0
+Jammu and Kashmir,Kishtwar,1,2020-04-15,Kr,0.0
+Jammu and Kashmir,Samba,4,2020-04-15,Sa,0.0
+Jammu and Kashmir,Budaun,1,2020-04-15,Bn,0.0
+Jammu and Kashmir,Unknown,1,2020-04-15,Un,0.0
+Karnataka,Bengaluru,80,2020-04-15,Bu,0.0
+Karnataka,Kalaburagi,16,2020-04-15,Ki,0.0
+Karnataka,Kodagu,1,2020-04-15,Ku,0.0
+Karnataka,Mysuru,48,2020-04-15,Mu,0.0
+Karnataka,Dharwad,6,2020-04-15,Dd,0.0
+Karnataka,Uttara Kannada,10,2020-04-15,Ua,0.0
+Karnataka,Dakshina Kannada,12,2020-04-15,Da,0.0
+Karnataka,Chikkaballapura,10,2020-04-15,Ca,0.0
+Karnataka,Udupi,3,2020-04-15,Ui,0.0
+Karnataka,Davanagere,3,2020-04-15,De,0.0
+Karnataka,Tumakuru,1,2020-04-15,Tu,0.0
+Karnataka,Ballari,6,2020-04-15,Bi,0.0
+Karnataka,Bidar,13,2020-04-15,Br,0.0
+Karnataka,Bagalkote,12,2020-04-15,Be,0.0
+Karnataka,Belagavi,18,2020-04-15,Bi,0.0
+Karnataka,Bengaluru Rural,5,2020-04-15,Bl,0.0
+Karnataka,Gadag,1,2020-04-15,Gg,0.0
+Karnataka,Mandya,8,2020-04-15,Ma,0.0
+Karnataka,Vijayapura,7,2020-04-15,Va,0.0
+Maharashtra,Pune,308,2020-04-15,Pe,0.0
+Maharashtra,Mumbai,1540,2020-04-15,Mi,0.0
+Maharashtra,Nagpur,39,2020-04-15,Nr,0.0
+Maharashtra,Ahmadnagar,27,2020-04-15,Ar,0.0
+Maharashtra,Thane,206,2020-04-15,Te,0.0
+Maharashtra,Raigarh,14,2020-04-15,Rh,0.0
+Maharashtra,Yavatmal,5,2020-04-15,Yl,0.0
+Maharashtra,Aurangabad,23,2020-04-15,Ad,0.0
+Maharashtra,Ratnagiri,5,2020-04-15,Ri,0.0
+Maharashtra,Palghar,30,2020-04-15,Pr,0.0
+Maharashtra,Sangli,26,2020-04-15,Si,0.0
+Maharashtra,Satara,6,2020-04-15,Sa,0.0
+Maharashtra,Sindhudurg,1,2020-04-15,Sg,0.0
+Maharashtra,Gondiya,1,2020-04-15,Ga,0.0
+Maharashtra,Kolhapur,6,2020-04-15,Kr,0.0
+Maharashtra,Other States*,9,2020-04-15,O*,0.0
+Maharashtra,Jalgaon,2,2020-04-15,Jn,0.0
+Maharashtra,Buldana,17,2020-04-15,Ba,0.0
+Maharashtra,Nashik,33,2020-04-15,Nk,0.0
+Maharashtra,Osmanabad,4,2020-04-15,Od,0.0
+Maharashtra,Washim,1,2020-04-15,Wm,0.0
+Maharashtra,Hingoli,1,2020-04-15,Hi,0.0
+Maharashtra,Amravati,5,2020-04-15,Ai,0.0
+Maharashtra,Latur,8,2020-04-15,Lr,0.0
+Maharashtra,Jalna,1,2020-04-15,Ja,0.0
+Maharashtra,Akola,12,2020-04-15,Aa,0.0
+Maharashtra,Bid,1,2020-04-15,Bd,0.0
+Maharashtra,Dhule,2,2020-04-15,De,0.0
+Maharashtra,Solapur,1,2020-04-15,Sr,0.0
+Maharashtra,Unknown,350,2020-04-15,Un,189.25619834710744
+Punjab,Amritsar,11,2020-04-15,Ar,0.0
+Punjab,Shahid Bhagat Singh Nagar,19,2020-04-15,Sr,0.0
+Punjab,S.A.S. Nagar,56,2020-04-15,Sr,0.0
+Punjab,Hoshiarpur,7,2020-04-15,Hr,0.0
+Punjab,Jalandhar,25,2020-04-15,Jr,0.0
+Punjab,Ludhiana,11,2020-04-15,La,0.0
+Punjab,Patiala,2,2020-04-15,Pa,0.0
+Punjab,Rupnagar,3,2020-04-15,Rr,0.0
+Punjab,Mansa,11,2020-04-15,Ma,0.0
+Punjab,Pathankot,22,2020-04-15,Pt,0.0
+Punjab,Faridkot,3,2020-04-15,Ft,0.0
+Punjab,Barnala,2,2020-04-15,Ba,0.0
+Punjab,Fatehgarh Sahib,2,2020-04-15,Fb,0.0
+Punjab,Kapurthala,2,2020-04-15,Ka,0.0
+Punjab,Moga,4,2020-04-15,Ma,0.0
+Punjab,Sri Muktsar Sahib,1,2020-04-15,Sb,0.0
+Punjab,Sangrur,2,2020-04-15,Sr,0.0
+Punjab,Gurdaspur,1,2020-04-15,Gr,0.0
+Andhra Pradesh,S.P.S. Nellore,57,2020-04-15,Se,0.0
+Andhra Pradesh,Prakasam,41,2020-04-15,Pm,0.0
+Andhra Pradesh,Visakhapatnam,20,2020-04-15,Vm,0.0
+Andhra Pradesh,East Godavari,17,2020-04-15,Ei,0.0
+Andhra Pradesh,Krishna,44,2020-04-15,Ka,0.0
+Andhra Pradesh,Chittoor,24,2020-04-15,Cr,0.0
+Andhra Pradesh,Guntur,114,2020-04-15,Gr,4.587155963302752
+Andhra Pradesh,Kurnool,91,2020-04-15,Kl,0.0
+Andhra Pradesh,Anantapur,20,2020-04-15,Ar,17.647058823529413
+Andhra Pradesh,West Godavari,23,2020-04-15,Wi,0.0
+Andhra Pradesh,Y.S.R.,32,2020-04-15,Y.,6.666666666666667
+Uttarakhand,Dehradun,18,2020-04-15,Dn,0.0
+Uttarakhand,Pauri Garhwal,2,2020-04-15,Pl,0.0
+Uttarakhand,Udham Singh Nagar,3,2020-04-15,Ur,0.0
+Uttarakhand,Nainital,8,2020-04-15,Nl,0.0
+Uttarakhand,Haridwar,3,2020-04-15,Hr,0.0
+Uttarakhand,Almora,1,2020-04-15,Aa,0.0
+Uttarakhand,Unknown,2,2020-04-15,Un,0.0
+Odisha,Khordha,46,2020-04-15,Ka,0.0
+Odisha,Bhadrak,3,2020-04-15,Bk,0.0
+Odisha,Cuttack,1,2020-04-15,Ck,0.0
+Odisha,Puri,1,2020-04-15,Pi,0.0
+Odisha,Jajapur,2,2020-04-15,Jr,0.0
+Odisha,Kalahandi,2,2020-04-15,Ki,0.0
+Odisha,Kendrapara,2,2020-04-15,Ka,0.0
+Odisha,Dhenkanal,1,2020-04-15,Dl,0.0
+Odisha,Sundargarh,2,2020-04-15,Sh,0.0
+Puducherry,Mahe,1,2020-04-15,Me,0.0
+Puducherry,Puducherry,6,2020-04-15,Py,0.0
+West Bengal,Kolkata,11,2020-04-15,Ka,0.0
+West Bengal,North 24 Parganas,4,2020-04-15,Ns,0.0
+West Bengal,Nadia,5,2020-04-15,Na,0.0
+West Bengal,Medinipur East,3,2020-04-15,Mt,0.0
+West Bengal,Kalimpong,1,2020-04-15,Kg,0.0
+West Bengal,Hooghly,1,2020-04-15,Hy,0.0
+West Bengal,Howrah,1,2020-04-15,Hh,0.0
+West Bengal,South 24 Parganas,1,2020-04-15,Ss,0.0
+West Bengal,Unknown,163,2020-04-15,Un,0.0
+Chandigarh,Chandigarh,21,2020-04-15,Ch,0.0
+Chhattisgarh,Raipur,5,2020-04-15,Rr,0.0
+Chhattisgarh,Rajnandgaon,1,2020-04-15,Rn,0.0
+Chhattisgarh,Bilaspur,1,2020-04-15,Br,0.0
+Chhattisgarh,Durg,1,2020-04-15,Dg,0.0
+Chhattisgarh,Korba,25,2020-04-15,Ka,0.0
+Gujarat,Rajkot,18,2020-04-15,Rt,0.0
+Gujarat,Surat,42,2020-04-15,St,0.0
+Gujarat,Ahmadabad,373,2020-04-15,Ad,0.0
+Gujarat,Vadodara,113,2020-04-15,Va,0.0
+Gujarat,Gandhinagar,16,2020-04-15,Gr,0.0
+Gujarat,Kachchh,4,2020-04-15,Kh,0.0
+Gujarat,Mahesana,4,2020-04-15,Ma,0.0
+Gujarat,Bhavnagar,26,2020-04-15,Br,0.0
+Gujarat,Porbandar,3,2020-04-15,Pr,0.0
+Gujarat,Gir Somnath,2,2020-04-15,Gh,0.0
+Gujarat,Panch Mahals,2,2020-04-15,Ps,0.0
+Gujarat,Patan,14,2020-04-15,Pn,0.0
+Gujarat,Chota Udaipur,5,2020-04-15,Cr,0.0
+Gujarat,Jamnagar,1,2020-04-15,Jr,0.0
+Gujarat,Morbi,1,2020-04-15,Mi,0.0
+Gujarat,Anand,10,2020-04-15,Ad,0.0
+Gujarat,Sabar Kantha,1,2020-04-15,Sa,0.0
+Gujarat,Dahod,2,2020-04-15,Dd,0.0
+Gujarat,Bharuch,11,2020-04-15,Bh,0.0
+Gujarat,Banas Kantha,2,2020-04-15,Ba,0.0
+Himachal Pradesh,Kangra,4,2020-04-15,Ka,0.0
+Himachal Pradesh,Una,14,2020-04-15,Ua,0.0
+Himachal Pradesh,Solan,9,2020-04-15,Sn,0.0
+Himachal Pradesh,Chamba,4,2020-04-15,Ca,0.0
+Himachal Pradesh,Sirmaur,1,2020-04-15,Sr,0.0
+Madhya Pradesh,Jabalpur,12,2020-04-15,Jr,20.0
+Madhya Pradesh,Bhopal,158,2020-04-15,Bl,11.267605633802818
+Madhya Pradesh,Indore,413,2020-04-15,Ie,25.914634146341463
+Madhya Pradesh,Ujjain,26,2020-04-15,Un,8.333333333333332
+Madhya Pradesh,Gwalior,6,2020-04-15,Gr,0.0
+Madhya Pradesh,Shivpuri,2,2020-04-15,Si,0.0
+Madhya Pradesh,Chhindwara,4,2020-04-15,Ca,0.0
+Madhya Pradesh,Morena,14,2020-04-15,Ma,0.0
+Madhya Pradesh,Khargone,17,2020-04-15,Ke,0.0
+Madhya Pradesh,Barwani,17,2020-04-15,Bi,21.428571428571427
+Madhya Pradesh,Betul,1,2020-04-15,Bl,0.0
+Madhya Pradesh,Vidisha,13,2020-04-15,Va,0.0
+Madhya Pradesh,Other Region*,1,2020-04-15,O*,0.0
+Madhya Pradesh,Sheopur,3,2020-04-15,Sr,50.0
+Madhya Pradesh,Khandwa,16,2020-04-15,Ka,166.66666666666669
+Madhya Pradesh,Dhar,3,2020-04-15,Dr,50.0
+Madhya Pradesh,Hoshangabad,15,2020-04-15,Hd,0.0
+Madhya Pradesh,Raisen,5,2020-04-15,Rn,0.0
+Madhya Pradesh,Dewas,7,2020-04-15,Ds,75.0
+Madhya Pradesh,Sagar,1,2020-04-15,Sr,0.0
+Madhya Pradesh,Shajapur,4,2020-04-15,Sr,300.0
+Madhya Pradesh,Ratlam,1,2020-04-15,Rm,0.0
+Madhya Pradesh,Mandsaur,1,2020-04-15,Mr,0.0
+Madhya Pradesh,Tikamgarh,1,2020-04-15,Th,0.0
+Bihar,Munger,7,2020-04-15,Mr,0.0
+Bihar,Patna,5,2020-04-15,Pa,0.0
+Bihar,Siwan,29,2020-04-15,Sn,0.0
+Bihar,Nalanda,3,2020-04-15,Na,0.0
+Bihar,Lakhisarai,1,2020-04-15,Li,0.0
+Bihar,Gopalganj,3,2020-04-15,Gj,0.0
+Bihar,Gaya,5,2020-04-15,Ga,0.0
+Bihar,Begusarai,8,2020-04-15,Bi,0.0
+Bihar,Saran,1,2020-04-15,Sn,0.0
+Bihar,Bhagalpur,1,2020-04-15,Br,0.0
+Bihar,Nawada,3,2020-04-15,Na,0.0
+Manipur,Imphal West,1,2020-04-15,It,0.0
+Manipur,Unknown,1,2020-04-15,Un,0.0
+Mizoram,Aizawl,1,2020-04-15,Al,0.0
+Goa,North Goa,4,2020-04-15,Na,0.0
+Goa,Unknown,3,2020-04-15,Un,0.0
+Andaman and Nicobar Islands,South Andaman,5,2020-04-15,Sn,0.0
+Andaman and Nicobar Islands,North and Middle Andaman,1,2020-04-15,Nn,0.0
+Andaman and Nicobar Islands,Unknown,5,2020-04-15,Un,0.0
+Jharkhand,Ranchi,11,2020-04-15,Ri,0.0
+Jharkhand,Hazaribagh,2,2020-04-15,Hh,0.0
+Jharkhand,Bokaro,9,2020-04-15,Bo,0.0
+Jharkhand,Kodarma,1,2020-04-15,Ka,0.0
+Jharkhand,Giridih,1,2020-04-15,Gh,0.0
+Jharkhand,Unknown,3,2020-04-15,Un,0.0
+Assam,Cachar,2,2020-04-15,Cr,0.0
+Assam,Kamrup Metropolitan,5,2020-04-15,Kn,0.0
+Assam,Jorhat,8,2020-04-15,Jt,0.0
+Assam,Goalpara,4,2020-04-15,Ga,0.0
+Assam,Nalbari,3,2020-04-15,Ni,0.0
+Assam,South Salmara Mancachar,1,2020-04-15,Sr,0.0
+Assam,Kamrup,1,2020-04-15,Kp,0.0
+Assam,Morigaon,1,2020-04-15,Mn,0.0
+Assam,Golaghat,1,2020-04-15,Gt,0.0
+Assam,Lakhimpur,1,2020-04-15,Lr,0.0
+Assam,Dhubri,4,2020-04-15,Di,33.33333333333333
+Assam,Hailakandi,1,2020-04-15,Hi,0.0
+Arunachal Pradesh,Lohit,1,2020-04-15,Lt,0.0
+Dadra and Nagar Haveli,Unknown,1,2020-04-15,Un,0.0
+Tripura,Gomati,1,2020-04-15,Gi,0.0
+Tripura,North Tripura,1,2020-04-15,Na,0.0
+Nagaland,Dimapur,1,2020-04-15,Dr,0.0
+Meghalaya,East Khasi Hills,1,2020-04-15,Es,0.0
