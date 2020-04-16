@@ -8,7 +8,7 @@ from datetime import date
 import datetime
 sns.set(color_codes=True)
 
-STATE="Maharashtra"
+STATE="Tamil Nadu"
 
 df_base_date = pd.read_csv("Stateanddistwisecount2.csv");
 bappend:bool=False;
@@ -43,6 +43,7 @@ if(bappend):
                     incr_percentage_today=(((df_coviD_districWise[item_state]["districtData"][item_district]["confirmed"]) - (yesterday_count_value))/yesterday_count_value)*100;
                 else :
                     yesterday_count_value=0;
+                    incr_percentage_today=0;
 
                 incr_percentage.append(incr_percentage_today);
 
