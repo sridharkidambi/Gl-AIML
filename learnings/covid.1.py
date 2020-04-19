@@ -84,6 +84,7 @@ else:
     plt.savefig(STATE + "_district_wise_daily_percent_count"+ str(date.today())+".png")
 
 if(bappend):
+    dfObj.reset_index(drop=True, inplace=True) ;
     dfObj.to_json("district_wise_pan_india"+ str(date.today()) +".json",orient='split');
 else:
     df_base_date.to_json("district_wise_pan_india"+ str(date.today()) +".json",orient='split');    
