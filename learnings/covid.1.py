@@ -60,12 +60,12 @@ ax = fig.add_subplot(111)
 plt.setp(ax.get_xticklabels(), rotation=30, horizontalalignment='right')
 if(bappend):
     # sns.scatterplot(x=dfObj[dfObj["state"]==STATE]["district"],y=dfObj[dfObj["state"]==STATE]["confirmed_count"],hue=dfObj[dfObj["state"]==STATE]["date"]);
-    sns.pointplot(x=dfObj[dfObj["state"]==STATE]["district"],y=dfObj[dfObj["state"]==STATE]["confirmed_count"],hue=dfObj[dfObj["state"]==STATE]["date"]);
-    plt.savefig(STATE + "_district_wise_daily_count"+ str(date.today())+".png")
+    # sns.pointplot(x=dfObj[dfObj["state"]==STATE]["district"],y=dfObj[dfObj["state"]==STATE]["confirmed_count"],hue=dfObj[dfObj["state"]==STATE]["date"]);
+    # plt.savefig(STATE + "_district_wise_daily_count"+ str(date.today())+".png")
 else:
     sns.barplot(x=df_base_date[df_base_date["state"]==STATE]["district"],y=df_base_date[df_base_date["state"]==STATE]["confirmed_count"],hue=df_base_date[df_base_date["state"]==STATE]["date"]);
     # sns.pointplot(x=df_base_date[df_base_date["state"]==STATE]["district"],y=df_base_date[df_base_date["state"]==STATE]["confirmed_count"],hue=df_base_date[df_base_date["state"]==STATE]["date"]);
-    plt.savefig(STATE + "_district_wise_daily_count"+ str(date.today())+".png")
+    # plt.savefig(STATE + "_district_wise_daily_count"+ str(date.today())+".png")
 
 # plt.show()
 
@@ -74,14 +74,14 @@ ax = fig.add_subplot(111)
 plt.setp(ax.get_xticklabels(), rotation=30, horizontalalignment='right')
 if(bappend):
     # sns.countplot(x="incr_percentage", hue="date", data=dfObj[dfObj["state"]==STATE]["district"])
-    sns.scatterplot(x=dfObj[dfObj["state"]==STATE]["district"],y=dfObj[dfObj["state"]==STATE]["incr_percentage"],hue=dfObj[dfObj["state"]==STATE]["date"]);
-    plt.savefig(STATE + "_district_wise_daily_percent_count"+ str(date.today())+".png")
+    # sns.scatterplot(x=dfObj[dfObj["state"]==STATE]["district"],y=dfObj[dfObj["state"]==STATE]["incr_percentage"],hue=dfObj[dfObj["state"]==STATE]["date"]);
+    # plt.savefig(STATE + "_district_wise_daily_percent_count"+ str(date.today())+".png")
 else:
     df_base_date.reset_index(inplace=True);
     # sns.barplot(x=df_base_date[df_base_date["state"]==STATE]["district"],y=df_base_date[df_base_date["state"]==STATE]["incr_percentage"], hue=df_base_date[df_base_date["state"]==STATE]["date"])
     # sns.barplot(x="incr_percentage", hue="date", data=df_base_date[df_base_date["state"]==STATE]["district"])
     # sns.scatterplot(x=df_base_date[df_base_date["state"]==STATE]["district"],y=df_base_date[df_base_date["state"]==STATE]["incr_percentage"],hue=df_base_date[df_base_date["state"]==STATE]["date"]);
-    plt.savefig(STATE + "_district_wise_daily_percent_count"+ str(date.today())+".png")
+    # plt.savefig(STATE + "_district_wise_daily_percent_count"+ str(date.today())+".png")
 
 if(bappend):
     dfObj.reset_index(drop=True, inplace=True) ;
