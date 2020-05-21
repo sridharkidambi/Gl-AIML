@@ -22,7 +22,7 @@ print(df_cust_spend.head(10))
 cust_data_attr=df_cust_spend.iloc[:,2:]
 print(cust_data_attr.head(5));
 cust_data_attr_scaled=cust_data_attr.apply(zscore);
-print(cust_data_attr_scaled.head())
+print(cust_data_attr_scaled. ())
 
 sns.pairplot(cust_data_attr_scaled,height=2,aspect=2,diag_kind="kde");
 plt.show()

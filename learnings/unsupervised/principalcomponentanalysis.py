@@ -40,6 +40,7 @@ X=df_auto_sales_dropped.drop(['mpg'],axis=1)
 y=df_auto_sales_dropped['mpg']
 # sns.pairplot(X,diag_kind='kde')
 # plt.show();
+print('X_scaled')
 X_scaled= X.apply(zscore);
 print(X_scaled.head())
 
@@ -87,6 +88,7 @@ plt.show()
 
 print(pd.DataFrame(X_scaled_tranformed).head(5))
 
+print('applying models')
 # LinearModel
 linear_reg=LinearRegression();
 linear_reg.fit(X_scaled,y)
