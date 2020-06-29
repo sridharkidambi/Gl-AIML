@@ -51126,3 +51126,777 @@ West Bengal,Purulia,88,2020-06-28,Pa,1.1494252873563218
 West Bengal,South 24 Parganas,955,2020-06-28,Ss,3.5791757049891544
 West Bengal,Uttar Dinajpur,287,2020-06-28,Ur,2.867383512544803
 West Bengal,Unknown,7,2020-06-28,Un,0.0
+State Unassigned,Unassigned,7256,2020-06-29,Ud,-7.0934699103713195
+Andaman and Nicobar Islands,Nicobars,0,2020-06-29,Ns,
+Andaman and Nicobar Islands,North and Middle Andaman,1,2020-06-29,Nn,0.0
+Andaman and Nicobar Islands,South Andaman,49,2020-06-29,Sn,40.0
+Andaman and Nicobar Islands,Unknown,40,2020-06-29,Un,-14.893617021276595
+Andhra Pradesh,Foreign Evacuees,391,2020-06-29,Fs,1.5584415584415585
+Andhra Pradesh,Anantapur,1467,2020-06-29,Ar,7.00218818380744
+Andhra Pradesh,Chittoor,947,2020-06-29,Cr,6.285072951739619
+Andhra Pradesh,East Godavari,1074,2020-06-29,Ei,7.18562874251497
+Andhra Pradesh,Guntur,1291,2020-06-29,Gr,8.214585079631181
+Andhra Pradesh,Krishna,1383,2020-06-29,Ka,3.9068369646882046
+Andhra Pradesh,Kurnool,1873,2020-06-29,Kl,4.8125349748181305
+Andhra Pradesh,Other State,1946,2020-06-29,Oe,4.343163538873995
+Andhra Pradesh,Prakasam,339,2020-06-29,Pm,8.30670926517572
+Andhra Pradesh,S.P.S. Nellore,603,2020-06-29,Se,4.145077720207254
+Andhra Pradesh,Srikakulam,62,2020-06-29,Sm,0.0
+Andhra Pradesh,Visakhapatnam,516,2020-06-29,Vm,2.178217821782178
+Andhra Pradesh,Vizianagaram,146,2020-06-29,Vm,0.6896551724137931
+Andhra Pradesh,West Godavari,988,2020-06-29,Wi,12.914285714285715
+Andhra Pradesh,Y.S.R. Kadapa,865,2020-06-29,Ya,8.942065491183879
+Arunachal Pradesh,Anjaw,0,2020-06-29,Aw,
+Arunachal Pradesh,Changlang,78,2020-06-29,Cg,0.0
+Arunachal Pradesh,East Kameng,0,2020-06-29,Eg,
+Arunachal Pradesh,East Siang,10,2020-06-29,Eg,0.0
+Arunachal Pradesh,Kamle,0,2020-06-29,Ke,
+Arunachal Pradesh,Kra Daadi,0,2020-06-29,Ki,
+Arunachal Pradesh,Kurung Kumey,0,2020-06-29,Ky,
+Arunachal Pradesh,Lepa Rada,1,2020-06-29,La,0.0
+Arunachal Pradesh,Lohit,4,2020-06-29,Lt,0.0
+Arunachal Pradesh,Longding,4,2020-06-29,Lg,0.0
+Arunachal Pradesh,Lower Dibang Valley,3,2020-06-29,Ly,0.0
+Arunachal Pradesh,Lower Siang,1,2020-06-29,Lg,0.0
+Arunachal Pradesh,Lower Subansiri,0,2020-06-29,Li,
+Arunachal Pradesh,Namsai,11,2020-06-29,Ni,0.0
+Arunachal Pradesh,Pakke Kessang,1,2020-06-29,Pg,0.0
+Arunachal Pradesh,Papum Pare,46,2020-06-29,Pe,0.0
+Arunachal Pradesh,Shi Yomi,0,2020-06-29,Si,
+Arunachal Pradesh,Siang,0,2020-06-29,Sg,
+Arunachal Pradesh,Tawang,2,2020-06-29,Tg,0.0
+Arunachal Pradesh,Tirap,3,2020-06-29,Tp,0.0
+Arunachal Pradesh,Upper Dibang Valley,0,2020-06-29,Uy,
+Arunachal Pradesh,Upper Siang,1,2020-06-29,Ug,0.0
+Arunachal Pradesh,Upper Subansiri,0,2020-06-29,Ui,
+Arunachal Pradesh,West Kameng,15,2020-06-29,Wg,0.0
+Arunachal Pradesh,West Siang,2,2020-06-29,Wg,0.0
+Assam,Airport Quarantine,4,2020-06-29,Ae,0.0
+Assam,Baksa,85,2020-06-29,Ba,0.0
+Assam,Barpeta,147,2020-06-29,Ba,0.0
+Assam,Biswanath,58,2020-06-29,Bh,0.0
+Assam,Bongaigaon,24,2020-06-29,Bn,0.0
+Assam,Cachar,98,2020-06-29,Cr,0.0
+Assam,Charaideo,16,2020-06-29,Co,0.0
+Assam,Chirang,52,2020-06-29,Cg,0.0
+Assam,Darrang,102,2020-06-29,Dg,0.0
+Assam,Dhemaji,95,2020-06-29,Di,0.0
+Assam,Dhubri,334,2020-06-29,Di,0.0
+Assam,Dibrugarh,77,2020-06-29,Dh,0.0
+Assam,Dima Hasao,89,2020-06-29,Do,0.0
+Assam,Goalpara,57,2020-06-29,Ga,0.0
+Assam,Golaghat,272,2020-06-29,Gt,0.0
+Assam,Hailakandi,78,2020-06-29,Hi,0.0
+Assam,Hojai,267,2020-06-29,Hi,0.0
+Assam,Jorhat,139,2020-06-29,Jt,0.0
+Assam,Kamrup,215,2020-06-29,Kp,0.0
+Assam,Kamrup Metropolitan,1112,2020-06-29,Kn,21.264994547437297
+Assam,Karbi Anglong,39,2020-06-29,Kg,0.0
+Assam,Karimganj,106,2020-06-29,Kj,0.0
+Assam,Kokrajhar,86,2020-06-29,Kr,0.0
+Assam,Lakhimpur,82,2020-06-29,Lr,0.0
+Assam,Majuli,21,2020-06-29,Mi,0.0
+Assam,Morigaon,49,2020-06-29,Mn,0.0
+Assam,Nagaon,327,2020-06-29,Nn,0.0
+Assam,Nalbari,28,2020-06-29,Ni,0.0
+Assam,Other State,1,2020-06-29,Oe,0.0
+Assam,Sivasagar,29,2020-06-29,Sr,0.0
+Assam,Sonitpur,104,2020-06-29,Sr,0.0
+Assam,South Salmara Mankachar,7,2020-06-29,Sr,0.0
+Assam,Tinsukia,114,2020-06-29,Ta,0.0
+Assam,Udalguri,105,2020-06-29,Ui,0.0
+Assam,West Karbi Anglong,28,2020-06-29,Wg,0.0
+Assam,Unknown,3046,2020-06-29,Un,4.529855868222374
+Bihar,Araria,127,2020-06-29,Aa,0.7936507936507936
+Bihar,Arwal,105,2020-06-29,Al,0.9615384615384616
+Bihar,Aurangabad,219,2020-06-29,Ad,4.285714285714286
+Bihar,Banka,229,2020-06-29,Ba,0.881057268722467
+Bihar,Begusarai,416,2020-06-29,Bi,4.522613065326634
+Bihar,Bhagalpur,486,2020-06-29,Br,1.25
+Bihar,Bhojpur,220,2020-06-29,Br,0.45662100456621
+Bihar,Buxar,226,2020-06-29,Br,0.0
+Bihar,Darbhanga,305,2020-06-29,Da,6.643356643356643
+Bihar,East Champaran,210,2020-06-29,En,18.64406779661017
+Bihar,Gaya,202,2020-06-29,Ga,1.507537688442211
+Bihar,Gopalganj,255,2020-06-29,Gj,2.4096385542168677
+Bihar,Jamui,77,2020-06-29,Ji,0.0
+Bihar,Jehanabad,249,2020-06-29,Jd,1.2195121951219512
+Bihar,Kaimur,171,2020-06-29,Kr,1.7857142857142856
+Bihar,Katihar,314,2020-06-29,Kr,5.369127516778524
+Bihar,Khagaria,299,2020-06-29,Ka,0.33557046979865773
+Bihar,Kishanganj,159,2020-06-29,Kj,0.6329113924050633
+Bihar,Lakhisarai,127,2020-06-29,Li,0.0
+Bihar,Madhepura,193,2020-06-29,Ma,3.2085561497326207
+Bihar,Madhubani,448,2020-06-29,Mi,1.3574660633484164
+Bihar,Munger,346,2020-06-29,Mr,1.7647058823529411
+Bihar,Muzaffarpur,308,2020-06-29,Mr,6.206896551724138
+Bihar,Nalanda,225,2020-06-29,Na,4.166666666666666
+Bihar,Nawada,286,2020-06-29,Na,10.852713178294573
+Bihar,Patna,696,2020-06-29,Pa,18.56899488926746
+Bihar,Purnia,295,2020-06-29,Pa,1.7241379310344827
+Bihar,Rohtas,334,2020-06-29,Rs,0.6024096385542169
+Bihar,Saharsa,175,2020-06-29,Sa,6.707317073170732
+Bihar,Samastipur,341,2020-06-29,Sr,5.900621118012422
+Bihar,Saran,211,2020-06-29,Sn,1.932367149758454
+Bihar,Sheikhpura,148,2020-06-29,Sa,1.36986301369863
+Bihar,Sheohar,91,2020-06-29,Sr,12.345679012345679
+Bihar,Sitamarhi,133,2020-06-29,Si,0.7575757575757576
+Bihar,Siwan,410,2020-06-29,Sn,1.4851485148514851
+Bihar,Supaul,236,2020-06-29,Sl,0.425531914893617
+Bihar,Vaishali,160,2020-06-29,Vi,1.910828025477707
+Bihar,West Champaran,186,2020-06-29,Wn,15.527950310559005
+Chandigarh,Chandigarh,434,2020-06-29,Ch,0.6960556844547563
+Chhattisgarh,Other State,1,2020-06-29,Oe,0.0
+Chhattisgarh,Balod,45,2020-06-29,Bd,2.272727272727273
+Chhattisgarh,Baloda Bazar,237,2020-06-29,Br,0.0
+Chhattisgarh,Balrampur,129,2020-06-29,Br,0.0
+Chhattisgarh,Bametara,48,2020-06-29,Ba,4.3478260869565215
+Chhattisgarh,Bastar,7,2020-06-29,Br,0.0
+Chhattisgarh,Bijapur,1,2020-06-29,Br,0.0
+Chhattisgarh,Bilaspur,182,2020-06-29,Br,0.0
+Chhattisgarh,Dakshin Bastar Dantewada,6,2020-06-29,Da,50.0
+Chhattisgarh,Dhamtari,8,2020-06-29,Di,0.0
+Chhattisgarh,Durg,147,2020-06-29,Dg,6.521739130434782
+Chhattisgarh,Gariaband,41,2020-06-29,Gd,17.142857142857142
+Chhattisgarh,Janjgir Champa,232,2020-06-29,Ja,0.4329004329004329
+Chhattisgarh,Jashpur,189,2020-06-29,Jr,15.24390243902439
+Chhattisgarh,Kabeerdham,105,2020-06-29,Km,0.9615384615384616
+Chhattisgarh,Kondagaon,3,2020-06-29,Kn,0.0
+Chhattisgarh,Korba,307,2020-06-29,Ka,0.32679738562091504
+Chhattisgarh,Koriya,56,2020-06-29,Ka,0.0
+Chhattisgarh,Mahasamund,88,2020-06-29,Md,3.5294117647058822
+Chhattisgarh,Mungeli,121,2020-06-29,Mi,0.0
+Chhattisgarh,Narayanpur,11,2020-06-29,Nr,10.0
+Chhattisgarh,Raigarh,122,2020-06-29,Rh,2.5210084033613445
+Chhattisgarh,Raipur,271,2020-06-29,Rr,1.8796992481203008
+Chhattisgarh,Rajnandgaon,273,2020-06-29,Rn,1.8656716417910446
+Chhattisgarh,Sukma,5,2020-06-29,Sa,0.0
+Chhattisgarh,Surajpur,24,2020-06-29,Sr,0.0
+Chhattisgarh,Surguja,50,2020-06-29,Sa,0.0
+Chhattisgarh,Uttar Bastar Kanker,49,2020-06-29,Ur,4.25531914893617
+Chhattisgarh,Gaurela Pendra Marwahi,3,2020-06-29,Gi,0.0
+Chhattisgarh,Unknown,0,2020-06-29,Un,0.0
+Delhi,Central Delhi,184,2020-06-29,Ci,0.0
+Delhi,East Delhi,38,2020-06-29,Ei,0.0
+Delhi,New Delhi,37,2020-06-29,Ni,0.0
+Delhi,North Delhi,60,2020-06-29,Ni,0.0
+Delhi,North East Delhi,25,2020-06-29,Ni,0.0
+Delhi,North West Delhi,32,2020-06-29,Ni,0.0
+Delhi,Shahdara,48,2020-06-29,Sa,0.0
+Delhi,South Delhi,70,2020-06-29,Si,0.0
+Delhi,South East Delhi,130,2020-06-29,Si,0.0
+Delhi,South West Delhi,42,2020-06-29,Si,0.0
+Delhi,West Delhi,122,2020-06-29,Wi,0.0
+Delhi,Unknown,84373,2020-06-29,Un,2.532537763249037
+Dadra and Nagar Haveli and Daman and Diu,Other State,0,2020-06-29,Oe,
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,101,2020-06-29,Di,5.208333333333334
+Dadra and Nagar Haveli and Daman and Diu,Daman,89,2020-06-29,Dn,12.658227848101266
+Dadra and Nagar Haveli and Daman and Diu,Diu,13,2020-06-29,Du,0.0
+Goa,Other State,4,2020-06-29,Oe,0.0
+Goa,North Goa,66,2020-06-29,Na,4.761904761904762
+Goa,South Goa,792,2020-06-29,Sa,3.5294117647058822
+Goa,Unknown,389,2020-06-29,Un,6.284153005464481
+Gujarat,Other State,85,2020-06-29,Oe,10.38961038961039
+Gujarat,Ahmedabad,20716,2020-06-29,Ad,1.15234375
+Gujarat,Amreli,82,2020-06-29,Ai,13.88888888888889
+Gujarat,Anand,207,2020-06-29,Ad,5.612244897959184
+Gujarat,Aravalli,204,2020-06-29,Ai,3.0303030303030303
+Gujarat,Banaskantha,177,2020-06-29,Ba,0.5681818181818182
+Gujarat,Bharuch,220,2020-06-29,Bh,3.7735849056603774
+Gujarat,Bhavnagar,253,2020-06-29,Br,2.0161290322580645
+Gujarat,Botad,86,2020-06-29,Bd,1.1764705882352942
+Gujarat,Chhota Udaipur,55,2020-06-29,Cr,0.0
+Gujarat,Dahod,59,2020-06-29,Dd,0.0
+Gujarat,Dang,4,2020-06-29,Dg,0.0
+Gujarat,Devbhumi Dwarka,22,2020-06-29,Da,10.0
+Gujarat,Gandhinagar,638,2020-06-29,Gr,0.3144654088050315
+Gujarat,Gir Somnath,73,2020-06-29,Gh,4.285714285714286
+Gujarat,Jamnagar,198,2020-06-29,Jr,3.125
+Gujarat,Junagadh,93,2020-06-29,Jh,3.3333333333333335
+Gujarat,Kheda,152,2020-06-29,Ka,4.827586206896552
+Gujarat,Kutch,153,2020-06-29,Kh,1.3245033112582782
+Gujarat,Mahisagar,135,2020-06-29,Mr,0.0
+Gujarat,Mehsana,269,2020-06-29,Ma,3.861003861003861
+Gujarat,Morbi,20,2020-06-29,Mi,0.0
+Gujarat,Narmada,89,2020-06-29,Na,0.0
+Gujarat,Navsari,95,2020-06-29,Ni,2.1505376344086025
+Gujarat,Panchmahal,173,2020-06-29,Pl,1.7647058823529411
+Gujarat,Patan,195,2020-06-29,Pn,11.428571428571429
+Gujarat,Porbandar,16,2020-06-29,Pr,0.0
+Gujarat,Rajkot,263,2020-06-29,Rt,5.2
+Gujarat,Sabarkantha,170,2020-06-29,Sa,0.591715976331361
+Gujarat,Surat,4630,2020-06-29,St,4.656419529837252
+Gujarat,Surendranagar,138,2020-06-29,Sr,6.976744186046512
+Gujarat,Tapi,8,2020-06-29,Ti,0.0
+Gujarat,Vadodara,2215,2020-06-29,Va,2.3094688221709005
+Gujarat,Valsad,130,2020-06-29,Vd,0.7751937984496124
+Himachal Pradesh,Bilaspur,44,2020-06-29,Br,0.0
+Himachal Pradesh,Chamba,52,2020-06-29,Ca,1.9607843137254901
+Himachal Pradesh,Hamirpur,239,2020-06-29,Hr,0.42016806722689076
+Himachal Pradesh,Kangra,262,2020-06-29,Ka,0.0
+Himachal Pradesh,Kinnaur,8,2020-06-29,Kr,0.0
+Himachal Pradesh,Kullu,5,2020-06-29,Ku,0.0
+Himachal Pradesh,Lahaul and Spiti,1,2020-06-29,Li,inf
+Himachal Pradesh,Mandi,28,2020-06-29,Mi,0.0
+Himachal Pradesh,Shimla,40,2020-06-29,Sa,0.0
+Himachal Pradesh,Sirmaur,38,2020-06-29,Sr,0.0
+Himachal Pradesh,Solan,98,2020-06-29,Sn,0.0
+Himachal Pradesh,Una,104,2020-06-29,Ua,0.0
+Haryana,Foreign Evacuees,21,2020-06-29,Fs,0.0
+Haryana,Ambala,314,2020-06-29,Aa,0.0
+Haryana,Bhiwani,415,2020-06-29,Bi,0.0
+Haryana,Charkhi Dadri,78,2020-06-29,Ci,0.0
+Haryana,Faridabad,3456,2020-06-29,Fd,0.0
+Haryana,Fatehabad,104,2020-06-29,Fd,0.9708737864077669
+Haryana,Gurugram,5225,2020-06-29,Gm,1.2989530825901512
+Haryana,Hisar,224,2020-06-29,Hr,0.0
+Haryana,Italians,14,2020-06-29,Is,0.0
+Haryana,Jhajjar,251,2020-06-29,Jr,2.8688524590163933
+Haryana,Jind,100,2020-06-29,Jd,0.0
+Haryana,Kaithal,94,2020-06-29,Kl,10.588235294117647
+Haryana,Karnal,287,2020-06-29,Kl,5.128205128205128
+Haryana,Kurukshetra,116,2020-06-29,Ka,0.8695652173913043
+Haryana,Mahendragarh,256,2020-06-29,Mh,0.0
+Haryana,Nuh,186,2020-06-29,Nh,0.0
+Haryana,Palwal,311,2020-06-29,Pl,0.6472491909385114
+Haryana,Panchkula,111,2020-06-29,Pa,0.0
+Haryana,Panipat,189,2020-06-29,Pt,10.526315789473683
+Haryana,Rewari,262,2020-06-29,Ri,0.0
+Haryana,Rohtak,545,2020-06-29,Rk,0.7393715341959335
+Haryana,Sirsa,98,2020-06-29,Sa,0.0
+Haryana,Sonipat,1195,2020-06-29,St,0.0
+Haryana,Yamunanagar,100,2020-06-29,Yr,0.0
+Jharkhand,Bokaro,45,2020-06-29,Bo,0.0
+Jharkhand,Chatra,47,2020-06-29,Ca,0.0
+Jharkhand,Deoghar,41,2020-06-29,Dr,0.0
+Jharkhand,Dhanbad,151,2020-06-29,Dd,15.267175572519085
+Jharkhand,Dumka,7,2020-06-29,Da,0.0
+Jharkhand,East Singhbhum,370,2020-06-29,Em,0.27100271002710025
+Jharkhand,Garhwa,101,2020-06-29,Ga,0.0
+Jharkhand,Giridih,91,2020-06-29,Gh,0.0
+Jharkhand,Godda,9,2020-06-29,Ga,0.0
+Jharkhand,Gumla,117,2020-06-29,Ga,0.0
+Jharkhand,Hazaribagh,191,2020-06-29,Hh,0.0
+Jharkhand,Jamtara,28,2020-06-29,Ja,0.0
+Jharkhand,Khunti,28,2020-06-29,Ki,0.0
+Jharkhand,Koderma,175,2020-06-29,Ka,0.0
+Jharkhand,Latehar,54,2020-06-29,Lr,0.0
+Jharkhand,Lohardaga,55,2020-06-29,La,0.0
+Jharkhand,Pakur,31,2020-06-29,Pr,0.0
+Jharkhand,Palamu,51,2020-06-29,Pu,0.0
+Jharkhand,Ramgarh,120,2020-06-29,Rh,0.0
+Jharkhand,Ranchi,207,2020-06-29,Ri,0.0
+Jharkhand,Sahibganj,8,2020-06-29,Sj,14.285714285714285
+Jharkhand,Saraikela-Kharsawan,51,2020-06-29,Sn,0.0
+Jharkhand,Simdega,350,2020-06-29,Sa,0.0
+Jharkhand,West Singhbhum,58,2020-06-29,Wm,0.0
+Jammu and Kashmir,Anantnag,650,2020-06-29,Ag,2.3622047244094486
+Jammu and Kashmir,Bandipora,291,2020-06-29,Ba,0.6920415224913495
+Jammu and Kashmir,Baramulla,816,2020-06-29,Ba,1.240694789081886
+Jammu and Kashmir,Budgam,397,2020-06-29,Bm,1.0178117048346056
+Jammu and Kashmir,Doda,77,2020-06-29,Da,4.054054054054054
+Jammu and Kashmir,Ganderbal,91,2020-06-29,Gl,1.1111111111111112
+Jammu and Kashmir,Jammu,336,2020-06-29,Ju,0.9009009009009009
+Jammu and Kashmir,Kathua,227,2020-06-29,Ka,6.074766355140187
+Jammu and Kashmir,Kishtwar,27,2020-06-29,Kr,0.0
+Jammu and Kashmir,Kulgam,767,2020-06-29,Km,0.13054830287206268
+Jammu and Kashmir,Kupwara,535,2020-06-29,Ka,0.37523452157598497
+Jammu and Kashmir,Mirpur,0,2020-06-29,Mr,
+Jammu and Kashmir,Muzaffarabad,0,2020-06-29,Md,
+Jammu and Kashmir,Pulwama,469,2020-06-29,Pa,6.59090909090909
+Jammu and Kashmir,Punch,123,2020-06-29,Ph,1.6528925619834711
+Jammu and Kashmir,Rajouri,111,2020-06-29,Ri,6.730769230769231
+Jammu and Kashmir,Ramban,217,2020-06-29,Rn,0.4629629629629629
+Jammu and Kashmir,Reasi,45,2020-06-29,Ri,12.5
+Jammu and Kashmir,Samba,144,2020-06-29,Sa,5.88235294117647
+Jammu and Kashmir,Shopiyan,750,2020-06-29,Sn,2.459016393442623
+Jammu and Kashmir,Srinagar,892,2020-06-29,Sr,1.9428571428571426
+Jammu and Kashmir,Udhampur,272,2020-06-29,Ur,1.1152416356877324
+Karnataka,Bagalkote,184,2020-06-29,Be,2.2222222222222223
+Karnataka,Ballari,773,2020-06-29,Bi,10.9038737446198
+Karnataka,Belagavi,326,2020-06-29,Bi,0.0
+Karnataka,Bengaluru Rural,108,2020-06-29,Bl,38.46153846153847
+Karnataka,Bengaluru Urban,4052,2020-06-29,Bn,22.269161134580568
+Karnataka,Bidar,590,2020-06-29,Br,4.98220640569395
+Karnataka,Chamarajanagara,33,2020-06-29,Ca,0.0
+Karnataka,Chikkaballapura,201,2020-06-29,Ca,8.064516129032258
+Karnataka,Chikkamagaluru,70,2020-06-29,Cu,32.075471698113205
+Karnataka,Chitradurga,59,2020-06-29,Ca,3.508771929824561
+Karnataka,Dakshina Kannada,697,2020-06-29,Da,4.8120300751879705
+Karnataka,Davanagere,297,2020-06-29,De,0.6779661016949152
+Karnataka,Dharwad,328,2020-06-29,Dd,5.466237942122187
+Karnataka,Gadag,174,2020-06-29,Gg,2.3529411764705883
+Karnataka,Hassan,381,2020-06-29,Hn,6.128133704735376
+Karnataka,Haveri,70,2020-06-29,Hi,1.4492753623188406
+Karnataka,Kalaburagi,1421,2020-06-29,Ki,1.6452074391988556
+Karnataka,Kodagu,43,2020-06-29,Ku,2.380952380952381
+Karnataka,Kolar,119,2020-06-29,Kr,3.4782608695652173
+Karnataka,Koppal,84,2020-06-29,Kl,0.0
+Karnataka,Mandya,414,2020-06-29,Ma,1.9704433497536946
+Karnataka,Mysuru,259,2020-06-29,Mu,2.371541501976284
+Karnataka,Other State,36,2020-06-29,Oe,0.0
+Karnataka,Raichur,473,2020-06-29,Rr,0.8528784648187633
+Karnataka,Ramanagara,150,2020-06-29,Ra,1.3513513513513513
+Karnataka,Shivamogga,151,2020-06-29,Sa,3.4246575342465753
+Karnataka,Tumakuru,93,2020-06-29,Tu,25.675675675675674
+Karnataka,Udupi,1197,2020-06-29,Ui,1.5267175572519083
+Karnataka,Uttara Kannada,213,2020-06-29,Ua,12.698412698412698
+Karnataka,Vijayapura,360,2020-06-29,Va,6.508875739644971
+Karnataka,Yadgir,939,2020-06-29,Yr,0.967741935483871
+Kerala,Other State,0,2020-06-29,Oe,
+Kerala,Alappuzha,291,2020-06-29,Aa,1.7482517482517483
+Kerala,Ernakulam,243,2020-06-29,Em,1.6736401673640167
+Kerala,Idukki,108,2020-06-29,Ii,4.854368932038835
+Kerala,Kannur,449,2020-06-29,Kr,3.218390804597701
+Kerala,Kasaragod,444,2020-06-29,Kd,0.9090909090909091
+Kerala,Kollam,332,2020-06-29,Km,3.4267912772585665
+Kerala,Kottayam,218,2020-06-29,Km,0.0
+Kerala,Kozhikode,258,2020-06-29,Ke,3.2
+Kerala,Malappuram,469,2020-06-29,Mm,3.532008830022075
+Kerala,Palakkad,512,2020-06-29,Pd,2.4
+Kerala,Pathanamthitta,288,2020-06-29,Pa,4.7272727272727275
+Kerala,Thiruvananthapuram,206,2020-06-29,Tm,1.9801980198019802
+Kerala,Thrissur,399,2020-06-29,Tr,6.970509383378016
+Kerala,Wayanad,95,2020-06-29,Wd,0.0
+Ladakh,Kargil,702,2020-06-29,Kl,0.14265335235378032
+Ladakh,Leh,262,2020-06-29,Lh,0.0
+Lakshadweep,Lakshadweep,0,2020-06-29,Lp,
+Maharashtra,Ahmednagar,399,2020-06-29,Ar,0.0
+Maharashtra,Akola,1463,2020-06-29,Aa,0.0
+Maharashtra,Amravati,528,2020-06-29,Ai,0.0
+Maharashtra,Aurangabad,4833,2020-06-29,Ad,0.0
+Maharashtra,Beed,112,2020-06-29,Bd,0.0
+Maharashtra,Bhandara,79,2020-06-29,Ba,0.0
+Maharashtra,Buldhana,213,2020-06-29,Ba,0.0
+Maharashtra,Chandrapur,80,2020-06-29,Cr,0.0
+Maharashtra,Dhule,962,2020-06-29,De,0.0
+Maharashtra,Gadchiroli,64,2020-06-29,Gi,0.0
+Maharashtra,Gondia,105,2020-06-29,Ga,0.0
+Maharashtra,Hingoli,262,2020-06-29,Hi,0.0
+Maharashtra,Jalgaon,3002,2020-06-29,Jn,0.0
+Maharashtra,Jalna,488,2020-06-29,Ja,0.0
+Maharashtra,Kolhapur,824,2020-06-29,Kr,0.0
+Maharashtra,Latur,303,2020-06-29,Lr,0.0
+Maharashtra,Mumbai,75539,2020-06-29,Mi,0.0
+Maharashtra,Mumbai Suburban,0,2020-06-29,Mn,
+Maharashtra,Nagpur,1421,2020-06-29,Nr,0.0
+Maharashtra,Nanded,337,2020-06-29,Nd,0.0
+Maharashtra,Nandurbar,166,2020-06-29,Nr,0.0
+Maharashtra,Nashik,3902,2020-06-29,Nk,0.0
+Maharashtra,Osmanabad,203,2020-06-29,Od,0.0
+Maharashtra,Other State,74,2020-06-29,Oe,0.0
+Maharashtra,Palghar,5267,2020-06-29,Pr,0.0
+Maharashtra,Parbhani,92,2020-06-29,Pi,0.0
+Maharashtra,Pune,20870,2020-06-29,Pe,0.0
+Maharashtra,Raigad,3669,2020-06-29,Rd,0.0
+Maharashtra,Ratnagiri,569,2020-06-29,Ri,0.0
+Maharashtra,Sangli,347,2020-06-29,Si,0.0
+Maharashtra,Satara,1004,2020-06-29,Sa,0.0
+Maharashtra,Sindhudurg,204,2020-06-29,Sg,0.0
+Maharashtra,Solapur,2588,2020-06-29,Sr,0.0
+Maharashtra,Thane,34257,2020-06-29,Te,0.0
+Maharashtra,Wardha,16,2020-06-29,Wa,0.0
+Maharashtra,Washim,101,2020-06-29,Wm,0.0
+Maharashtra,Yavatmal,283,2020-06-29,Yl,0.0
+Maharashtra,Unknown,5257,2020-06-29,Un,0.0
+Meghalaya,East Garo Hills,0,2020-06-29,Es,
+Meghalaya,East Jaintia Hills,0,2020-06-29,Es,
+Meghalaya,East Khasi Hills,28,2020-06-29,Es,3.7037037037037033
+Meghalaya,North Garo Hills,1,2020-06-29,Ns,0.0
+Meghalaya,Ribhoi,1,2020-06-29,Ri,0.0
+Meghalaya,South Garo Hills,0,2020-06-29,Ss,
+Meghalaya,South West Garo Hills,7,2020-06-29,Ss,0.0
+Meghalaya,South West Khasi Hills,0,2020-06-29,Ss,
+Meghalaya,West Garo Hills,5,2020-06-29,Ws,0.0
+Meghalaya,West Jaintia Hills,5,2020-06-29,Ws,0.0
+Meghalaya,West Khasi Hills,1,2020-06-29,Ws,0.0
+Meghalaya,Unknown,2,2020-06-29,Un,-33.33333333333333
+Manipur,Bishnupur,79,2020-06-29,Br,0.0
+Manipur,Chandel,38,2020-06-29,Cl,0.0
+Manipur,Churachandpur,129,2020-06-29,Cr,0.0
+Manipur,Imphal East,38,2020-06-29,It,0.0
+Manipur,Imphal West,89,2020-06-29,It,0.0
+Manipur,Jiribam,3,2020-06-29,Jm,0.0
+Manipur,Kakching,87,2020-06-29,Kg,0.0
+Manipur,Kamjong,81,2020-06-29,Kg,2.5316455696202533
+Manipur,Kangpokpi,135,2020-06-29,Ki,32.35294117647059
+Manipur,Noney,24,2020-06-29,Ny,0.0
+Manipur,Pherzawl,32,2020-06-29,Pl,0.0
+Manipur,Senapati,99,2020-06-29,Si,2.0618556701030926
+Manipur,Tamenglong,176,2020-06-29,Tg,0.0
+Manipur,Tengnoupal,14,2020-06-29,Tl,0.0
+Manipur,Thoubal,53,2020-06-29,Tl,0.0
+Manipur,Ukhrul,150,2020-06-29,Ul,3.4482758620689653
+Manipur,Unknown,0,2020-06-29,Un,
+Madhya Pradesh,Agar Malwa,16,2020-06-29,Aa,0.0
+Madhya Pradesh,Alirajpur,3,2020-06-29,Ar,0.0
+Madhya Pradesh,Anuppur,29,2020-06-29,Ar,0.0
+Madhya Pradesh,Ashoknagar,44,2020-06-29,Ar,2.3255813953488373
+Madhya Pradesh,Balaghat,25,2020-06-29,Bt,19.047619047619047
+Madhya Pradesh,Barwani,114,2020-06-29,Bi,5.555555555555555
+Madhya Pradesh,Betul,56,2020-06-29,Bl,0.0
+Madhya Pradesh,Bhind,211,2020-06-29,Bd,2.4271844660194173
+Madhya Pradesh,Bhopal,2764,2020-06-29,Bl,0.8759124087591241
+Madhya Pradesh,Burhanpur,392,2020-06-29,Br,0.0
+Madhya Pradesh,Chhatarpur,56,2020-06-29,Cr,0.0
+Madhya Pradesh,Chhindwara,59,2020-06-29,Ca,7.2727272727272725
+Madhya Pradesh,Damoh,38,2020-06-29,Dh,5.555555555555555
+Madhya Pradesh,Datia,25,2020-06-29,Da,8.695652173913043
+Madhya Pradesh,Dewas,219,2020-06-29,Ds,2.336448598130841
+Madhya Pradesh,Dhar,173,2020-06-29,Dr,0.0
+Madhya Pradesh,Dindori,30,2020-06-29,Di,0.0
+Madhya Pradesh,Guna,15,2020-06-29,Ga,0.0
+Madhya Pradesh,Gwalior,354,2020-06-29,Gr,0.8547008547008548
+Madhya Pradesh,Harda,30,2020-06-29,Ha,0.0
+Madhya Pradesh,Hoshangabad,41,2020-06-29,Hd,0.0
+Madhya Pradesh,Indore,4664,2020-06-29,Ie,1.0617551462621884
+Madhya Pradesh,Jabalpur,396,2020-06-29,Jr,0.25316455696202533
+Madhya Pradesh,Jhabua,16,2020-06-29,Ja,0.0
+Madhya Pradesh,Katni,15,2020-06-29,Ki,0.0
+Madhya Pradesh,Khandwa,310,2020-06-29,Ka,1.9736842105263157
+Madhya Pradesh,Khargone,289,2020-06-29,Ke,1.7605633802816902
+Madhya Pradesh,Mandla,6,2020-06-29,Ma,0.0
+Madhya Pradesh,Mandsaur,113,2020-06-29,Mr,2.727272727272727
+Madhya Pradesh,Morena,349,2020-06-29,Ma,7.384615384615385
+Madhya Pradesh,Narsinghpur,31,2020-06-29,Nr,3.3333333333333335
+Madhya Pradesh,Neemuch,443,2020-06-29,Nh,0.9111617312072893
+Madhya Pradesh,Niwari,8,2020-06-29,Ni,0.0
+Madhya Pradesh,Other Region,0,2020-06-29,On,
+Madhya Pradesh,Panna,34,2020-06-29,Pa,0.0
+Madhya Pradesh,Raisen,109,2020-06-29,Rn,0.0
+Madhya Pradesh,Rajgarh,86,2020-06-29,Rh,1.1764705882352942
+Madhya Pradesh,Ratlam,156,2020-06-29,Rm,3.3112582781456954
+Madhya Pradesh,Rewa,57,2020-06-29,Ra,3.6363636363636362
+Madhya Pradesh,Sagar,356,2020-06-29,Sr,5.637982195845697
+Madhya Pradesh,Satna,33,2020-06-29,Sa,0.0
+Madhya Pradesh,Sehore,15,2020-06-29,Se,15.384615384615385
+Madhya Pradesh,Seoni,14,2020-06-29,Si,0.0
+Madhya Pradesh,Shahdol,22,2020-06-29,Sl,0.0
+Madhya Pradesh,Shajapur,62,2020-06-29,Sr,1.639344262295082
+Madhya Pradesh,Sheopur,72,2020-06-29,Sr,1.4084507042253522
+Madhya Pradesh,Shivpuri,35,2020-06-29,Si,6.0606060606060606
+Madhya Pradesh,Sidhi,20,2020-06-29,Si,0.0
+Madhya Pradesh,Singrauli,16,2020-06-29,Si,0.0
+Madhya Pradesh,Tikamgarh,38,2020-06-29,Th,2.7027027027027026
+Madhya Pradesh,Ujjain,856,2020-06-29,Un,0.0
+Madhya Pradesh,Umaria,10,2020-06-29,Ua,0.0
+Madhya Pradesh,Vidisha,45,2020-06-29,Va,2.272727272727273
+Mizoram,Aizawl,38,2020-06-29,Al,0.0
+Mizoram,Champhai,9,2020-06-29,Ci,0.0
+Mizoram,Hnahthial,0,2020-06-29,Hl,
+Mizoram,Khawzawl,3,2020-06-29,Kl,0.0
+Mizoram,Kolasib,11,2020-06-29,Kb,0.0
+Mizoram,Lawngtlai,8,2020-06-29,Li,0.0
+Mizoram,Lunglei,47,2020-06-29,Li,0.0
+Mizoram,Mamit,20,2020-06-29,Mt,0.0
+Mizoram,Saiha,9,2020-06-29,Sa,0.0
+Mizoram,Saitual,3,2020-06-29,Sl,0.0
+Mizoram,Serchhip,3,2020-06-29,Sp,0.0
+Nagaland,Others,40,2020-06-29,Os,81.81818181818183
+Nagaland,Dimapur,84,2020-06-29,Dr,0.0
+Nagaland,Kiphire,4,2020-06-29,Ke,0.0
+Nagaland,Kohima,46,2020-06-29,Ka,0.0
+Nagaland,Longleng,2,2020-06-29,Lg,0.0
+Nagaland,Mokokchung,0,2020-06-29,Mg,
+Nagaland,Mon,63,2020-06-29,Mn,0.0
+Nagaland,Peren,165,2020-06-29,Pn,0.6097560975609756
+Nagaland,Phek,2,2020-06-29,Pk,0.0
+Nagaland,Tuensang,13,2020-06-29,Tg,0.0
+Nagaland,Wokha,10,2020-06-29,Wa,0.0
+Nagaland,Zunheboto,5,2020-06-29,Zo,0.0
+Nagaland,Unknown,17,2020-06-29,Un,inf
+Odisha,Others,2,2020-06-29,Os,inf
+Odisha,Angul,63,2020-06-29,Al,0.0
+Odisha,Balangir,167,2020-06-29,Br,0.0
+Odisha,Balasore,346,2020-06-29,Be,0.5813953488372093
+Odisha,Bargarh,97,2020-06-29,Bh,11.494252873563218
+Odisha,Bhadrak,228,2020-06-29,Bk,0.8849557522123894
+Odisha,Boudh,41,2020-06-29,Bh,0.0
+Odisha,Cuttack,556,2020-06-29,Ck,1.2750455373406193
+Odisha,Deogarh,42,2020-06-29,Dh,0.0
+Odisha,Dhenkanal,76,2020-06-29,Dl,4.10958904109589
+Odisha,Gajapati,435,2020-06-29,Gi,1.6355140186915886
+Odisha,Ganjam,1367,2020-06-29,Gm,7.553107789142407
+Odisha,Jagatsinghpur,281,2020-06-29,Jr,3.308823529411765
+Odisha,Jajpur,486,2020-06-29,Jr,8.968609865470851
+Odisha,Jharsuguda,99,2020-06-29,Ja,1.0204081632653061
+Odisha,Kalahandi,71,2020-06-29,Ki,0.0
+Odisha,Kandhamal,178,2020-06-29,Kl,0.0
+Odisha,Kendrapara,243,2020-06-29,Ka,3.404255319148936
+Odisha,Kendujhar,139,2020-06-29,Kr,5.303030303030303
+Odisha,Khordha,814,2020-06-29,Ka,3.5623409669211195
+Odisha,Koraput,29,2020-06-29,Kt,0.0
+Odisha,Malkangiri,60,2020-06-29,Mi,0.0
+Odisha,Mayurbhanj,201,2020-06-29,Mj,2.5510204081632653
+Odisha,Nabarangapur,42,2020-06-29,Nr,20.0
+Odisha,Nayagarh,143,2020-06-29,Nh,2.142857142857143
+Odisha,Nuapada,82,2020-06-29,Na,0.0
+Odisha,Puri,255,2020-06-29,Pi,0.0
+Odisha,Rayagada,39,2020-06-29,Ra,2.631578947368421
+Odisha,Sambalpur,50,2020-06-29,Sr,0.0
+Odisha,Subarnapur,36,2020-06-29,Sr,2.857142857142857
+Odisha,Sundargarh,191,2020-06-29,Sh,3.2432432432432434
+Punjab,Amritsar,904,2020-06-29,Ar,2.378255945639864
+Punjab,Barnala,59,2020-06-29,Ba,18.0
+Punjab,Bathinda,90,2020-06-29,Ba,1.1235955056179776
+Punjab,Faridkot,106,2020-06-29,Ft,2.912621359223301
+Punjab,Fatehgarh Sahib,111,2020-06-29,Fb,0.9090909090909091
+Punjab,Fazilka,91,2020-06-29,Fa,0.0
+Punjab,Ferozepur,96,2020-06-29,Fr,3.225806451612903
+Punjab,Gurdaspur,219,2020-06-29,Gr,1.3888888888888888
+Punjab,Hoshiarpur,174,2020-06-29,Hr,0.0
+Punjab,Jalandhar,712,2020-06-29,Jr,1.1363636363636365
+Punjab,Kapurthala,90,2020-06-29,Ka,1.1235955056179776
+Punjab,Ludhiana,795,2020-06-29,La,1.792573623559539
+Punjab,Mansa,48,2020-06-29,Ma,9.090909090909092
+Punjab,Moga,95,2020-06-29,Ma,1.0638297872340425
+Punjab,Pathankot,212,2020-06-29,Pt,1.4354066985645932
+Punjab,Patiala,326,2020-06-29,Pa,16.014234875444842
+Punjab,Rupnagar,107,2020-06-29,Rr,4.901960784313726
+Punjab,S.A.S. Nagar,254,2020-06-29,Sr,1.6
+Punjab,Sangrur,468,2020-06-29,Sr,14.705882352941178
+Punjab,Shahid Bhagat Singh Nagar,140,2020-06-29,Sr,7.6923076923076925
+Punjab,Sri Muktsar Sahib,127,2020-06-29,Sb,0.0
+Punjab,Tarn Taran,194,2020-06-29,Tn,3.1914893617021276
+Puducherry,Karaikal,39,2020-06-29,Kl,0.0
+Puducherry,Mahe,10,2020-06-29,Me,0.0
+Puducherry,Puducherry,639,2020-06-29,Py,7.035175879396985
+Puducherry,Yanam,2,2020-06-29,Ym,0.0
+Rajasthan,Ajmer,503,2020-06-29,Ar,0.6
+Rajasthan,Alwar,503,2020-06-29,Ar,0.0
+Rajasthan,Banswara,99,2020-06-29,Ba,0.0
+Rajasthan,Baran,65,2020-06-29,Bn,0.0
+Rajasthan,Barmer,302,2020-06-29,Br,4.861111111111112
+Rajasthan,Bharatpur,1558,2020-06-29,Br,1.1688311688311688
+Rajasthan,Bhilwara,250,2020-06-29,Ba,0.0
+Rajasthan,Bikaner,298,2020-06-29,Br,3.1141868512110724
+Rajasthan,BSF Camp,50,2020-06-29,Bp,0.0
+Rajasthan,Bundi,14,2020-06-29,Bi,0.0
+Rajasthan,Chittorgarh,211,2020-06-29,Ch,0.4761904761904762
+Rajasthan,Churu,305,2020-06-29,Cu,0.6600660066006601
+Rajasthan,Dausa,134,2020-06-29,Da,0.0
+Rajasthan,Dholpur,606,2020-06-29,Dr,0.1652892561983471
+Rajasthan,Dungarpur,431,2020-06-29,Dr,0.0
+Rajasthan,Evacuees,61,2020-06-29,Es,0.0
+Rajasthan,Ganganagar,53,2020-06-29,Gr,0.0
+Rajasthan,Hanumangarh,63,2020-06-29,Hh,0.0
+Rajasthan,Italians,2,2020-06-29,Is,0.0
+Rajasthan,Jaipur,3274,2020-06-29,Jr,0.3986507206378411
+Rajasthan,Jaisalmer,109,2020-06-29,Jr,0.9259259259259258
+Rajasthan,Jalore,282,2020-06-29,Je,0.0
+Rajasthan,Jhalawar,375,2020-06-29,Jr,0.0
+Rajasthan,Jhunjhunu,359,2020-06-29,Ju,0.8426966292134831
+Rajasthan,Jodhpur,2684,2020-06-29,Jr,0.0
+Rajasthan,Karauli,96,2020-06-29,Ki,0.0
+Rajasthan,Kota,656,2020-06-29,Ka,2.5
+Rajasthan,Nagaur,630,2020-06-29,Nr,1.9417475728155338
+Rajasthan,Other State,109,2020-06-29,Oe,0.9259259259259258
+Rajasthan,Pali,1084,2020-06-29,Pi,0.27752081406105455
+Rajasthan,Pratapgarh,16,2020-06-29,Ph,0.0
+Rajasthan,Rajsamand,237,2020-06-29,Rd,1.282051282051282
+Rajasthan,Sawai Madhopur,95,2020-06-29,Sr,0.0
+Rajasthan,Sikar,512,2020-06-29,Sr,0.0
+Rajasthan,Sirohi,471,2020-06-29,Si,2.391304347826087
+Rajasthan,Tonk,200,2020-06-29,Tk,0.0
+Rajasthan,Udaipur,695,2020-06-29,Ur,1.4598540145985401
+Sikkim,East Sikkim,28,2020-06-29,Em,3.7037037037037033
+Sikkim,North Sikkim,1,2020-06-29,Nm,0.0
+Sikkim,South Sikkim,38,2020-06-29,Sm,0.0
+Sikkim,West Sikkim,21,2020-06-29,Wm,0.0
+Telangana,Foreign Evacuees,33,2020-06-29,Fs,0.0
+Telangana,Other State,250,2020-06-29,Oe,0.0
+Telangana,Adilabad,45,2020-06-29,Ad,0.0
+Telangana,Bhadradri Kothagudem,27,2020-06-29,Bm,42.10526315789473
+Telangana,Hyderabad,11672,2020-06-29,Hd,7.964110628064009
+Telangana,Jagtial,20,2020-06-29,Jl,0.0
+Telangana,Jangaon,81,2020-06-29,Jn,0.0
+Telangana,Jayashankar Bhupalapally,9,2020-06-29,Jy,0.0
+Telangana,Jogulamba Gadwal,50,2020-06-29,Jl,2.0408163265306123
+Telangana,Kamareddy,41,2020-06-29,Ky,5.128205128205128
+Telangana,Karimnagar,97,2020-06-29,Kr,11.494252873563218
+Telangana,Khammam,37,2020-06-29,Km,0.0
+Telangana,Komaram Bheem,24,2020-06-29,Km,4.3478260869565215
+Telangana,Mahabubabad,14,2020-06-29,Md,7.6923076923076925
+Telangana,Mahabubnagar,68,2020-06-29,Mr,4.615384615384616
+Telangana,Mancherial,59,2020-06-29,Ml,0.0
+Telangana,Medak,56,2020-06-29,Mk,0.0
+Telangana,Medchal Malkajgiri,554,2020-06-29,Mi,3.7453183520599254
+Telangana,Mulugu,16,2020-06-29,Mu,0.0
+Telangana,Nagarkurnool,23,2020-06-29,Nl,0.0
+Telangana,Nalgonda,78,2020-06-29,Na,2.631578947368421
+Telangana,Narayanpet,3,2020-06-29,Nt,0.0
+Telangana,Nirmal,26,2020-06-29,Nl,0.0
+Telangana,Nizamabad,85,2020-06-29,Nd,0.0
+Telangana,Peddapalli,6,2020-06-29,Pi,0.0
+Telangana,Rajanna Sircilla,24,2020-06-29,Ra,0.0
+Telangana,Ranga Reddy,1060,2020-06-29,Ry,3.9215686274509802
+Telangana,Sangareddy,120,2020-06-29,Sy,13.20754716981132
+Telangana,Siddipet,21,2020-06-29,St,5.0
+Telangana,Suryapet,90,2020-06-29,St,0.0
+Telangana,Vikarabad,46,2020-06-29,Vd,0.0
+Telangana,Wanaparthy,6,2020-06-29,Wy,0.0
+Telangana,Warangal Rural,59,2020-06-29,Wl,9.25925925925926
+Telangana,Warangal Urban,119,2020-06-29,Wn,3.4782608695652173
+Telangana,Yadadri Bhuvanagiri,19,2020-06-29,Yi,11.76470588235294
+Telangana,Unknown,456,2020-06-29,Un,0.0
+Tamil Nadu,Railway Quarantine,406,2020-06-29,Re,0.7444168734491315
+Tamil Nadu,Airport Quarantine,700,2020-06-29,Ae,4.94752623688156
+Tamil Nadu,Other State,0,2020-06-29,Oe,
+Tamil Nadu,Ariyalur,462,2020-06-29,Ar,0.21691973969631237
+Tamil Nadu,Chengalpattu,5242,2020-06-29,Cu,3.7814294199168477
+Tamil Nadu,Chennai,55969,2020-06-29,Ci,4.105130017484469
+Tamil Nadu,Coimbatore,528,2020-06-29,Ce,14.782608695652174
+Tamil Nadu,Cuddalore,1007,2020-06-29,Ce,2.5458248472505094
+Tamil Nadu,Dharmapuri,70,2020-06-29,Di,1.4492753623188406
+Tamil Nadu,Dindigul,438,2020-06-29,Dl,18.37837837837838
+Tamil Nadu,Erode,136,2020-06-29,Ee,9.67741935483871
+Tamil Nadu,Kallakurichi,764,2020-06-29,Ki,8.062234794908061
+Tamil Nadu,Kancheepuram,1876,2020-06-29,Km,4.745951982132887
+Tamil Nadu,Kanyakumari,349,2020-06-29,Ki,6.402439024390244
+Tamil Nadu,Karur,137,2020-06-29,Kr,0.7352941176470588
+Tamil Nadu,Krishnagiri,134,2020-06-29,Ki,21.818181818181817
+Tamil Nadu,Madurai,2302,2020-06-29,Mi,15.388471177944862
+Tamil Nadu,Nagapattinam,252,2020-06-29,Nm,0.8
+Tamil Nadu,Namakkal,94,2020-06-29,Nl,-3.0927835051546393
+Tamil Nadu,Nilgiris,84,2020-06-29,Ns,18.30985915492958
+Tamil Nadu,Perambalur,158,2020-06-29,Pr,-2.4691358024691357
+Tamil Nadu,Pudukkottai,194,2020-06-29,Pi,16.16766467065868
+Tamil Nadu,Ramanathapuram,803,2020-06-29,Rm,8.221024258760108
+Tamil Nadu,Ranipet,730,2020-06-29,Rt,0.0
+Tamil Nadu,Salem,753,2020-06-29,Sm,6.056338028169014
+Tamil Nadu,Sivaganga,189,2020-06-29,Sa,12.5
+Tamil Nadu,Tenkasi,335,2020-06-29,Ti,0.9036144578313252
+Tamil Nadu,Thanjavur,424,2020-06-29,Tr,0.9523809523809524
+Tamil Nadu,Theni,626,2020-06-29,Ti,8.869565217391303
+Tamil Nadu,Thiruvallur,3656,2020-06-29,Tr,3.745743473325766
+Tamil Nadu,Thiruvarur,443,2020-06-29,Tr,3.5046728971962615
+Tamil Nadu,Thoothukkudi,903,2020-06-29,Ti,4.272517321016166
+Tamil Nadu,Tiruchirappalli,636,2020-06-29,Ti,16.483516483516482
+Tamil Nadu,Tirunelveli,751,2020-06-29,Ti,0.9408602150537635
+Tamil Nadu,Tirupathur,153,2020-06-29,Tr,10.869565217391305
+Tamil Nadu,Tiruppur,160,2020-06-29,Tr,6.666666666666667
+Tamil Nadu,Tiruvannamalai,1808,2020-06-29,Ti,2.320316921335597
+Tamil Nadu,Vellore,1241,2020-06-29,Ve,13.333333333333334
+Tamil Nadu,Viluppuram,867,2020-06-29,Vm,6.511056511056511
+Tamil Nadu,Virudhunagar,444,2020-06-29,Vr,22.31404958677686
+Tripura,Dhalai,213,2020-06-29,Di,0.0
+Tripura,Gomati,138,2020-06-29,Gi,0.0
+Tripura,Khowai,64,2020-06-29,Ki,0.0
+Tripura,North Tripura,25,2020-06-29,Na,0.0
+Tripura,Sipahijala,561,2020-06-29,Sa,0.17857142857142858
+Tripura,South Tripura,130,2020-06-29,Sa,0.0
+Tripura,Unokoti,69,2020-06-29,Ui,0.0
+Tripura,West Tripura,151,2020-06-29,Wa,-0.6578947368421052
+Tripura,Unknown,0,2020-06-29,Un,
+Uttar Pradesh,Agra,1214,2020-06-29,Aa,1.5050167224080269
+Uttar Pradesh,Aligarh,475,2020-06-29,Ah,3.711790393013101
+Uttar Pradesh,Ambedkar Nagar,117,2020-06-29,Ar,-2.5
+Uttar Pradesh,Amethi,278,2020-06-29,Ai,-0.35842293906810035
+Uttar Pradesh,Amroha,139,2020-06-29,Aa,6.923076923076923
+Uttar Pradesh,Auraiya,104,2020-06-29,Aa,1.9607843137254901
+Uttar Pradesh,Ayodhya,274,2020-06-29,Aa,3.787878787878788
+Uttar Pradesh,Azamgarh,228,2020-06-29,Ah,1.3333333333333335
+Uttar Pradesh,Baghpat,264,2020-06-29,Bt,0.0
+Uttar Pradesh,Bahraich,124,2020-06-29,Bh,0.8130081300813009
+Uttar Pradesh,Ballia,112,2020-06-29,Ba,7.6923076923076925
+Uttar Pradesh,Balrampur,75,2020-06-29,Br,11.940298507462686
+Uttar Pradesh,Banda,43,2020-06-29,Ba,0.0
+Uttar Pradesh,Barabanki,329,2020-06-29,Bi,2.4922118380062304
+Uttar Pradesh,Bareilly,233,2020-06-29,By,1.3043478260869565
+Uttar Pradesh,Basti,351,2020-06-29,Bi,0.2857142857142857
+Uttar Pradesh,Bhadohi,134,2020-06-29,Bi,3.076923076923077
+Uttar Pradesh,Bijnor,287,2020-06-29,Br,2.867383512544803
+Uttar Pradesh,Budaun,134,2020-06-29,Bn,5.511811023622047
+Uttar Pradesh,Bulandshahr,599,2020-06-29,Br,1.353637901861252
+Uttar Pradesh,Chandauli,142,2020-06-29,Ci,15.447154471544716
+Uttar Pradesh,Chitrakoot,92,2020-06-29,Ct,2.2222222222222223
+Uttar Pradesh,Deoria,217,2020-06-29,Da,3.3333333333333335
+Uttar Pradesh,Etah,137,2020-06-29,Eh,0.7352941176470588
+Uttar Pradesh,Etawah,290,2020-06-29,Eh,5.072463768115942
+Uttar Pradesh,Farrukhabad,156,2020-06-29,Fd,9.090909090909092
+Uttar Pradesh,Fatehpur,133,2020-06-29,Fr,0.7575757575757576
+Uttar Pradesh,Firozabad,512,2020-06-29,Fd,0.5893909626719057
+Uttar Pradesh,Gautam Buddha Nagar,2208,2020-06-29,Gr,2.6499302649930265
+Uttar Pradesh,Ghaziabad,1463,2020-06-29,Gd,5.025125628140704
+Uttar Pradesh,Ghazipur,328,2020-06-29,Gr,0.6134969325153374
+Uttar Pradesh,Gonda,157,2020-06-29,Ga,0.641025641025641
+Uttar Pradesh,Gorakhpur,325,2020-06-29,Gr,5.51948051948052
+Uttar Pradesh,Hamirpur,74,2020-06-29,Hr,1.36986301369863
+Uttar Pradesh,Hapur,628,2020-06-29,Hr,6.984667802385008
+Uttar Pradesh,Hardoi,224,2020-06-29,Hi,5.164319248826291
+Uttar Pradesh,Hathras,168,2020-06-29,Hs,0.0
+Uttar Pradesh,Jalaun,174,2020-06-29,Jn,2.3529411764705883
+Uttar Pradesh,Jaunpur,526,2020-06-29,Jr,3.3398821218074657
+Uttar Pradesh,Jhansi,175,2020-06-29,Ji,10.062893081761008
+Uttar Pradesh,Kannauj,236,2020-06-29,Kj,0.425531914893617
+Uttar Pradesh,Kanpur Dehat,60,2020-06-29,Kt,0.0
+Uttar Pradesh,Kanpur Nagar,1140,2020-06-29,Kr,3.5422343324250685
+Uttar Pradesh,Kasganj,75,2020-06-29,Kj,11.940298507462686
+Uttar Pradesh,Kaushambi,82,2020-06-29,Ki,7.894736842105263
+Uttar Pradesh,Kushinagar,122,2020-06-29,Kr,0.8264462809917356
+Uttar Pradesh,Lakhimpur Kheri,114,2020-06-29,Li,0.0
+Uttar Pradesh,Lalitpur,8,2020-06-29,Lr,14.285714285714285
+Uttar Pradesh,Lucknow,1109,2020-06-29,Lw,2.117863720073665
+Uttar Pradesh,Maharajganj,168,2020-06-29,Mj,3.067484662576687
+Uttar Pradesh,Mahoba,56,2020-06-29,Ma,1.8181818181818181
+Uttar Pradesh,Mainpuri,254,2020-06-29,Mi,3.2520325203252036
+Uttar Pradesh,Mathura,330,2020-06-29,Ma,1.8518518518518516
+Uttar Pradesh,Mau,131,2020-06-29,Mu,11.016949152542372
+Uttar Pradesh,Meerut,998,2020-06-29,Mt,1.3197969543147208
+Uttar Pradesh,Mirzapur,89,2020-06-29,Mr,4.705882352941177
+Uttar Pradesh,Moradabad,446,2020-06-29,Md,2.7649769585253456
+Uttar Pradesh,Muzaffarnagar,279,2020-06-29,Mr,3.3333333333333335
+Uttar Pradesh,Pilibhit,132,2020-06-29,Pt,9.090909090909092
+Uttar Pradesh,Pratapgarh,112,2020-06-29,Ph,0.0
+Uttar Pradesh,Prayagraj,265,2020-06-29,Pj,0.3787878787878788
+Uttar Pradesh,Rae Bareli,134,2020-06-29,Ri,1.5151515151515151
+Uttar Pradesh,Rampur,358,2020-06-29,Rr,0.0
+Uttar Pradesh,Saharanpur,387,2020-06-29,Sr,1.8421052631578945
+Uttar Pradesh,Sambhal,334,2020-06-29,Sl,1.2121212121212122
+Uttar Pradesh,Sant Kabir Nagar,232,2020-06-29,Sr,6.422018348623854
+Uttar Pradesh,Shahjahanpur,123,2020-06-29,Sr,0.819672131147541
+Uttar Pradesh,Shamli,147,2020-06-29,Si,12.213740458015266
+Uttar Pradesh,Shrawasti,59,2020-06-29,Si,1.7241379310344827
+Uttar Pradesh,Siddharthnagar,246,2020-06-29,Sr,1.2345679012345678
+Uttar Pradesh,Sitapur,63,2020-06-29,Sr,0.0
+Uttar Pradesh,Sonbhadra,42,2020-06-29,Sa,10.526315789473683
+Uttar Pradesh,Sultanpur,198,2020-06-29,Sr,3.125
+Uttar Pradesh,Unnao,166,2020-06-29,Uo,4.40251572327044
+Uttar Pradesh,Varanasi,490,2020-06-29,Vi,10.36036036036036
+Uttarakhand,Almora,176,2020-06-29,Aa,0.0
+Uttarakhand,Bageshwar,81,2020-06-29,Br,0.0
+Uttarakhand,Chamoli,73,2020-06-29,Ci,0.0
+Uttarakhand,Champawat,54,2020-06-29,Ct,0.0
+Uttarakhand,Dehradun,681,2020-06-29,Dn,0.5908419497784343
+Uttarakhand,Haridwar,313,2020-06-29,Hr,0.0
+Uttarakhand,Nainital,470,2020-06-29,Nl,0.4273504273504274
+Uttarakhand,Pauri Garhwal,141,2020-06-29,Pl,0.0
+Uttarakhand,Pithoragarh,65,2020-06-29,Ph,0.0
+Uttarakhand,Rudraprayag,66,2020-06-29,Rg,0.0
+Uttarakhand,Tehri Garhwal,416,2020-06-29,Tl,0.0
+Uttarakhand,Udham Singh Nagar,231,2020-06-29,Ur,0.8733624454148471
+Uttarakhand,Uttarkashi,64,2020-06-29,Ui,0.0
+West Bengal,Alipurduar,179,2020-06-29,Ar,0.0
+West Bengal,Bankura,242,2020-06-29,Ba,0.4149377593360996
+West Bengal,Birbhum,296,2020-06-29,Bm,0.0
+West Bengal,Cooch Behar,303,2020-06-29,Cr,1.6778523489932886
+West Bengal,Dakshin Dinajpur,202,2020-06-29,Dr,0.0
+West Bengal,Darjeeling,458,2020-06-29,Dg,7.009345794392523
+West Bengal,Hooghly,979,2020-06-29,Hy,4.038257173219979
+West Bengal,Howrah,2654,2020-06-29,Hh,3.7123876514263383
+West Bengal,Jalpaiguri,348,2020-06-29,Ji,3.880597014925373
+West Bengal,Jhargram,19,2020-06-29,Jm,0.0
+West Bengal,Kalimpong,52,2020-06-29,Kg,0.0
+West Bengal,Kolkata,5753,2020-06-29,Ka,3.2298582451103535
+West Bengal,Malda,612,2020-06-29,Ma,4.794520547945205
+West Bengal,Murshidabad,228,2020-06-29,Md,1.7857142857142856
+West Bengal,Nadia,310,2020-06-29,Na,2.6490066225165565
+West Bengal,North 24 Parganas,2798,2020-06-29,Ns,4.519985057900635
+West Bengal,Other State,66,2020-06-29,Oe,0.0
+West Bengal,Paschim Bardhaman,140,2020-06-29,Pn,3.7037037037037033
+West Bengal,Paschim Medinipur,368,2020-06-29,Pr,3.6619718309859155
+West Bengal,Purba Bardhaman,169,2020-06-29,Pn,3.048780487804878
+West Bengal,Purba Medinipur,321,2020-06-29,Pr,1.5822784810126582
+West Bengal,Purulia,88,2020-06-29,Pa,0.0
+West Bengal,South 24 Parganas,1031,2020-06-29,Ss,7.958115183246073
+West Bengal,Uttar Dinajpur,291,2020-06-29,Ur,1.3937282229965158
