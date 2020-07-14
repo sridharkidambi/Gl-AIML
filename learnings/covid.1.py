@@ -8,6 +8,15 @@ from datetime import date
 import datetime
 sns.set(color_codes=True)
 
+
+# print(type(np.nan))
+# x=5*np.random.randn(10,2)
+# y=5*x[:,0] -4*x[:,1]+2  +0.3*np.random.randn(10)
+# xaug=np.concatenate((x,np.ones([10,1])),1)
+# print(x)
+# print(y)
+# print(xaug)
+
 STATE="Tamil Nadu"
 
 df_base_date = pd.read_csv("Stateanddistwisecount2.csv");
@@ -16,6 +25,7 @@ bappend:bool=False;
 if(df_base_date[df_base_date["date"] == str(date.today())]. shape[0] == 0):
     bappend=True;
 
+# bappend=True;
 state=[];
 district=[];
 district_nm=[];
