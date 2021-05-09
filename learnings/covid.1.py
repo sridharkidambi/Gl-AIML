@@ -22,11 +22,15 @@ sns.set(color_codes=True)
 STATE="Tamil Nadu"
 
 df_base_date = pd.read_csv("Stateanddistwisecount2.csv");
+df_base_date=df_base_date[df_base_date["date"]>str(date.today() - datetime.timedelta(days=280))];
 bappend:bool=False;
+print(str(date.today()))
 
-if(df_base_date[df_base_date["date"] == str(date.today())]. shape[0] == 0):
+if(df_base_date[df_base_date["date"] == str(date.today())]. shape[0] != 0):
     bappend=True;
 
+print('Date of file is:');
+print(df_base_date.head(5));
 # bappend=True;
 state=[];
 district=[];
@@ -37,7 +41,7 @@ incr_percentage=[];
 
 if(bappend):
     df_coviD_districWise=pd.read_json("https://api.covid19india.org/state_district_wise.json")  
-
+    print(df_coviD_districWise.head(5));
     for item_state in df_coviD_districWise:
         
         for item_district in df_coviD_districWise[item_state]["districtData"]:
@@ -48,7 +52,7 @@ if(bappend):
                 district_nm.append(dist_abbr);
                 count.append(df_coviD_districWise[item_state]["districtData"][item_district]["confirmed"]);
                 todaysdate.append(date.today());
-                yesterday_count = df_base_date[(df_base_date["date"] == str(date.today() - datetime.timedelta(days=1))) &  (df_base_date["state"] == str(item_state))  & (df_base_date["district"] == str(item_district))];
+                yesterday_count =  df_base_date[(df_base_date["date"] == str(date.today() - datetime.timedelta(days=1))) &  (df_base_date["state"] == str(item_state))  & (df_base_date["district"] == str(item_district))];
                 yesterday_count= yesterday_count.reset_index();
                 if(len(yesterday_count["confirmed_count"].index) > 0 ):
                     yesterday_count_value= yesterday_count["confirmed_count"][0];
