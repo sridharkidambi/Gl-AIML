@@ -26,7 +26,7 @@ df_base_date=df_base_date[df_base_date["date"]>str(date.today() - datetime.timed
 bappend:bool=False;
 print(str(date.today()))
 
-if(df_base_date[df_base_date["date"] == str(date.today())]. shape[0] != 0):
+if(df_base_date[df_base_date["date"] == str(date.today())]. shape[0] == 0):
     bappend=True;
 
 print('Date of file is:');
