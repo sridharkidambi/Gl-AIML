@@ -29,7 +29,7 @@ print(str(date.today()))
 if(df_base_date[df_base_date["date"] == str(date.today())]. shape[0] == 0):
     bappend=True;
 
-print('Date of file is:');
+print( bappend);
 print(df_base_date.head(5));
 # bappend=True;
 state=[];
